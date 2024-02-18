@@ -589,6 +589,20 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 </tr>
 </table>
 
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=10GkeFMFCXI"><img width="140px" src="http://img.youtube.com/vi/10GkeFMFCXI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=10GkeFMFCXI">What is 4 Way Handshake - Everything You Need To Know [ Hindi ]</a><br/>Nov 23, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=g3yoTTdNYYY"><img width="140px" src="http://img.youtube.com/vi/g3yoTTdNYYY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=g3yoTTdNYYY">What are HTTP Status Codes - All Status Codes &amp; Everything You Need To Know [ Hindi ]</a><br/>Nov 17, 2023</td>
+</tr>
+</table>
+
 <!-- PLAYLIST7:END -->
 </details>
 
