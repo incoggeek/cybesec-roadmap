@@ -379,7 +379,7 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 | [WeChall](http://www.wechall.net)                 | [HackerRank](https://www.hackerrank.com)             |
 | [kaggle](https://www.kaggle.com/)                  | [Zenk-Security](https://www.zenk-security.com/)      |
 
-# FAQs 🧐
+## FAQs 🧐
 <!-- FAQS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LlTrT5xzjoQ"><img width="140px" src="http://img.youtube.com/vi/LlTrT5xzjoQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LlTrT5xzjoQ">He Cracked CHFI - How To Crack CHFI Easily Ft. Abhilash | Defronix Pod #2</a><br/>Oct 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=quopplZJHRw"><img width="140px" src="http://img.youtube.com/vi/quopplZJHRw/maxresdefault.jpg"></a></td>
