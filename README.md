@@ -1,6 +1,5 @@
 ## Linux Fundamentals to Advance
 <!-- PLAYLIST1:START --><details>
-<summary>Playlist 1</summary>
 <table>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=Ope97qAVTxg"><img width="140px" src="http://img.youtube.com/vi/Ope97qAVTxg/maxresdefault.jpg"></a></td>
@@ -10,7 +9,6 @@
 </details>
 
 <details>
-<summary>Playlist 1</summary>
 <table>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=EoKcAIe0280"><img width="140px" src="http://img.youtube.com/vi/EoKcAIe0280/maxresdefault.jpg"></a></td>
@@ -20,7 +18,6 @@
 </details>
 
 <details>
-<summary>Playlist 1</summary>
 <table>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=hfqtc7MfnzI"><img width="140px" src="http://img.youtube.com/vi/hfqtc7MfnzI/maxresdefault.jpg"></a></td>
@@ -30,7 +27,6 @@
 </details>
 
 <details>
-<summary>Playlist 1</summary>
 <table>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=sp3Te9l5xEE"><img width="140px" src="http://img.youtube.com/vi/sp3Te9l5xEE/maxresdefault.jpg"></a></td>
@@ -40,7 +36,6 @@
 </details>
 
 <details>
-<summary>Playlist 1</summary>
 <table>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=dLmb2uSPTIU"><img width="140px" src="http://img.youtube.com/vi/dLmb2uSPTIU/maxresdefault.jpg"></a></td>
