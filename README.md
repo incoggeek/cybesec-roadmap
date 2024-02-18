@@ -383,6 +383,62 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 </tr>
 </table>
 
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=Z_EvacmGIKE"><img width="140px" src="http://img.youtube.com/vi/Z_EvacmGIKE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Z_EvacmGIKE">Day-8 OSINT Free Live Training Capsule Course [ Hindi ]</a><br/>Jul 26, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=5pgWKsM7Fuc"><img width="140px" src="http://img.youtube.com/vi/5pgWKsM7Fuc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5pgWKsM7Fuc">Day-7 OSINT Free Live Training Capsule Course [ Hindi ]</a><br/>Jul 24, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=T56omJuHJ14"><img width="140px" src="http://img.youtube.com/vi/T56omJuHJ14/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=T56omJuHJ14">Day-6 OSINT Free Live Training Capsule Course [ Hindi ]</a><br/>Jul 23, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=A1HRcNDBMY8"><img width="140px" src="http://img.youtube.com/vi/A1HRcNDBMY8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=A1HRcNDBMY8">Day-5 OSINT Free Live Training Capsule Course [ Hindi ]</a><br/>Jul 21, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=v2TrR2CeB2w"><img width="140px" src="http://img.youtube.com/vi/v2TrR2CeB2w/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=v2TrR2CeB2w">Day-4 OSINT Free Live Training Capsule Course [ Hindi ]</a><br/>Jul 18, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=SzhCG_FlnkY"><img width="140px" src="http://img.youtube.com/vi/SzhCG_FlnkY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SzhCG_FlnkY">Day-3 OSINT Free Live Training Capsule Course [ Hindi ]</a><br/>Jul 17, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=ZFmfYmN5Mv0"><img width="140px" src="http://img.youtube.com/vi/ZFmfYmN5Mv0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZFmfYmN5Mv0">Day-2 OSINT Free Live Training Capsule Course [ Hindi ]</a><br/>Jul 15, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=Ope97qAVTxg"><img width="140px" src="http://img.youtube.com/vi/Ope97qAVTxg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ope97qAVTxg">Day-1 OSINT Free Live Training Capsule Course [ Hindi ]</a><br/>Jul 13, 2023</td>
+</tr>
+</table>
+
 <!-- PLAYLIST5:END -->
 </details>
 
