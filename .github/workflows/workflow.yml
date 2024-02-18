@@ -21,7 +21,7 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/,playlistTitle/title"
           date_format: "mmm d, yyyy"
           template: |
-            # $playlistTitle
+            $playlistTitle
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
@@ -53,7 +53,7 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/,playlistTitle/title"
           date_format: "mmm d, yyyy"
           template: |
-            # $playlistTitle
+            $playlistTitle
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
@@ -70,7 +70,7 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/,playlistTitle/title"
           date_format: "mmm d, yyyy"
           template: |
-            # $playlistTitle
+            $playlistTitle
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
@@ -104,7 +104,7 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/,playlistTitle/title"
           date_format: "mmm d, yyyy"
           template: |
-            # $playlistTitle
+            $playlistTitle
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
@@ -121,7 +121,7 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/,playlistTitle/title"
           date_format: "mmm d, yyyy"
           template: |
-            # $playlistTitle
+            $playlistTitle
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
