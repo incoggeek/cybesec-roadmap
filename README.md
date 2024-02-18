@@ -379,6 +379,9 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 | [WeChall](http://www.wechall.net)                 | [HackerRank](https://www.hackerrank.com)             |
 | [kaggle](https://www.kaggle.com/)                  | [Zenk-Security](https://www.zenk-security.com/)      |
 
+# FAQs
+<!-- FAQS:START -->
+<!-- FAQS:END -->
 
 ## Connect with Us
 <p align="left">
