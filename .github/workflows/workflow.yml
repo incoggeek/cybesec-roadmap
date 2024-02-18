@@ -153,3 +153,22 @@ jobs:
             </tr>
             </table>
             $newline
+
+name: Latest Writeups from website
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 * * * *'
+permissions:
+      contents: write
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "WRITEUPS"
+          feed_list: "https://technicalnavigator.in/category/linux-android-windows/"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
