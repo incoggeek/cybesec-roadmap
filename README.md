@@ -1,4 +1,4 @@
-# Blog posts
+# Bug Bounty Videos
 <!-- BLOG-POST-LIST:START -->$playlistTitle
 <table>
 <tr>
