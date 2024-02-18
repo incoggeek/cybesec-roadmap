@@ -336,5 +336,4 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 </details>
 
 ## Writeups
-<!-- WRITEUPS:START -->
-<!-- WRITEUPS:END -->
+<!-- WRITEUPS:START --><tr><td>How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;</td><td>https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/</td></tr><tr><td>Understanding Systemctl Command in Linux &lpar;Practical&rpar;</td><td>https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/</td></tr><tr><td>Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges</td><td>https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/</td></tr><tr><td>Android Apps debugging |  Frida, JADX, Genymotion</td><td>https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/</td></tr><tr><td>MouseServer | wifimouse – Windows/ Linux</td><td>https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/</td></tr><!-- WRITEUPS:END -->
