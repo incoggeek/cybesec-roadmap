@@ -22,7 +22,6 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
-            $playlistTitle
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
@@ -56,7 +55,6 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
-            $playlistTitle
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
@@ -92,7 +90,6 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
-            # $playlistTitle
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
@@ -110,7 +107,6 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
-            $playlistTitle
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
@@ -128,7 +124,23 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
-            $playlistTitle
+            <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>$newline
+
+        # Fetch and insert videos from Playlist 8
+      - name: Fetch and insert videos from Playlist 7
+        id: playlist_8
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu7hgxu7QhA9GrF9i23JX9A"
+          comment_tag_name: "PLAYLIST7"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: |
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
