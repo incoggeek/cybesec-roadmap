@@ -19,6 +19,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnvUXy1RQL5DWxIj7KdCJBmq"
           comment_tag_name: "PLAYLIST1"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
             $playlistTitle
@@ -34,6 +35,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnsQNexfdDn3DgKxUvIgTpDK"
           comment_tag_name: "PLAYLIST2"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
             # $playlistTitle
@@ -51,6 +53,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnsj_PIenPD7LF3TnTZujasb"
           comment_tag_name: "PLAYLIST3"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
             $playlistTitle
@@ -68,6 +71,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnthGdlZwnRwlHk4L3mTgQHD"
           comment_tag_name: "PLAYLIST4"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
             $playlistTitle
@@ -85,6 +89,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu7wxeH4suOSLMdGPAYHoqm"
           comment_tag_name: "PLAYLIST5"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
             # $playlistTitle
@@ -102,6 +107,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu5bVVqtOauOuv4bVhtQZdf"
           comment_tag_name: "PLAYLIST6"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
             $playlistTitle
@@ -119,6 +125,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu-ESDmxURAtE2s9bNzWPfj"
           comment_tag_name: "PLAYLIST7"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
             $playlistTitle
