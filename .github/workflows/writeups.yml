@@ -7,12 +7,12 @@ permissions:
       contents: write
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blogs
+    name: Writeups.md
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "WRITEUPS"
-          max_post_count: "15"
+          max_post_count: "100"
           feed_list: "https://technicalnavigator.in/category/linux-android-windows/feed/,https://medium.com/feed/@infosecwriteups/,https://www.bleepingcomputer.com/tutorials/feed/"
