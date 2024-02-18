@@ -7,7 +7,7 @@ permissions:
       contents: write
 jobs:
   update-readme-with-blog:
-    name: ./Writeups.md, ./README.md
+    name: Writeups.md, README.md
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
