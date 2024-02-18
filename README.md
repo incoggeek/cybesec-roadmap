@@ -643,6 +643,76 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 </tr>
 </table>
 
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=Nqa3Zv_F9xA"><img width="140px" src="http://img.youtube.com/vi/Nqa3Zv_F9xA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Nqa3Zv_F9xA">Day-8 Directory Bruteforce, Screenshot, More Subdomains Live Recon - Bug Bounty Free Course [Hindi]</a><br/>Jan 9, 2024</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=PWIJJg2qZRk"><img width="140px" src="http://img.youtube.com/vi/PWIJJg2qZRk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PWIJJg2qZRk">Day-7 Subdomain Finding Live Recon  - Bug Bounty Free Course [ Hindi ]</a><br/>Jan 6, 2024</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=dFH7wNyPRjM"><img width="140px" src="http://img.youtube.com/vi/dFH7wNyPRjM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dFH7wNyPRjM">Day-6 Finding Secrets Using Shodan in Live Recon  - Bug Bounty Free Course [ Hindi ]</a><br/>Jan 4, 2024</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=EkRJnr1e4tk"><img width="140px" src="http://img.youtube.com/vi/EkRJnr1e4tk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EkRJnr1e4tk">Day-5 Live Recon For Gathering All Information  - Bug Bounty Free Course [ Hindi ]</a><br/>Jan 1, 2024</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=07vLcnhdC5I"><img width="140px" src="http://img.youtube.com/vi/07vLcnhdC5I/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=07vLcnhdC5I">Day-4 Burp Suite In-Depth Tutorial - Bug Bounty Free Course [ Hindi ]</a><br/>Dec 30, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=p75KKCP6lfc"><img width="140px" src="http://img.youtube.com/vi/p75KKCP6lfc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=p75KKCP6lfc">Day-3 OWASP Top 10, Broken Web Application &amp; Metasploitable  - Bug Bounty Free Course [ Hindi ]</a><br/>Dec 28, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=C6_6Q9xJ8Nk"><img width="140px" src="http://img.youtube.com/vi/C6_6Q9xJ8Nk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=C6_6Q9xJ8Nk">Using Emulator To Setup Android Pentesting Lab Part 2 - Bug Bounty Free Course [ Hindi ]</a><br/>Dec 27, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=zo5SxzI5bHU"><img width="140px" src="http://img.youtube.com/vi/zo5SxzI5bHU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zo5SxzI5bHU">Android Pentesting Lab Setup - Bug Bounty Free Course [ Hindi ]</a><br/>Dec 26, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=At4S7iHi7a4"><img width="140px" src="http://img.youtube.com/vi/At4S7iHi7a4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=At4S7iHi7a4">Day-2 How To Choose Right Target For Bug Bounty - Bug Bounty Free Course [ Hindi ]</a><br/>Dec 24, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=4gR-W-cx9tE"><img width="140px" src="http://img.youtube.com/vi/4gR-W-cx9tE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4gR-W-cx9tE">Day-1 What is Bug Bounty &amp; How To Get Started - Bug Bounty Free Course [ Hindi ]</a><br/>Dec 22, 2023</td>
+</tr>
+</table>
+
 <!-- PLAYLIST8:END -->
 </details>
 
