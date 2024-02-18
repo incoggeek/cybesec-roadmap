@@ -23,7 +23,6 @@ jobs:
           date_format: "mmm d, yyyy"
           template: |
             <details>
-            <summary>Playlist 1</summary>
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
