@@ -41,12 +41,6 @@
 </details>
 
 <details>
-<summary>Basic Concepts</summary>
- <!-- PLAYLIST7:START -->
-<!-- PLAYLIST7:END -->
-</details>
-
-<details>
 <summary>Bug Bounty</summary>
  <!-- PLAYLIST8:START -->
 <!-- PLAYLIST8:END -->
