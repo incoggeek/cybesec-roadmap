@@ -19,6 +19,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnvUXy1RQL5DWxIj7KdCJBmq"
           comment_tag_name: "PLAYLIST1"
+          max_post_count: "100"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
@@ -35,6 +36,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnsQNexfdDn3DgKxUvIgTpDK"
           comment_tag_name: "PLAYLIST2"
+          max_post_count: "100"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
@@ -53,6 +55,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnsj_PIenPD7LF3TnTZujasb"
           comment_tag_name: "PLAYLIST3"
+          max_post_count: "100"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
@@ -71,6 +74,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnthGdlZwnRwlHk4L3mTgQHD"
           comment_tag_name: "PLAYLIST4"
+          max_post_count: "100"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: | 
@@ -89,6 +93,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu7wxeH4suOSLMdGPAYHoqm"
           comment_tag_name: "PLAYLIST5"
+          max_post_count: "100"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
@@ -107,6 +112,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu5bVVqtOauOuv4bVhtQZdf"
           comment_tag_name: "PLAYLIST6"
+          max_post_count: "100"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
@@ -126,6 +132,7 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu-ESDmxURAtE2s9bNzWPfj"
           comment_tag_name: "PLAYLIST7"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          max_post_count: "100"
           date_format: "mmm d, yyyy"
           template: |
             <table>
@@ -144,6 +151,7 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu7hgxu7QhA9GrF9i23JX9A"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           comment_tag_name: "PLAYLIST8"
+          max_post_count: "100"
           date_format: "mmm d, yyyy"
           template: |
             <table>
