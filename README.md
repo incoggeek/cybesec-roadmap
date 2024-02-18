@@ -1,3 +1,6 @@
+<img src="https://github.com/incoggeek/cybesec-roadmap/blob/master/WHK%20hires%20top%20cyber%20security%20talent.gif" alt="Alt text" width="1000px"/>
+
+
 Welcome Hackers, this is your go-to resource for learning the fundamentals of cybersecurity! Whether you're completely new to the field or looking to expand your knowledge, this repository is designed to provide you with a comprehensive introduction to cybersecurity concepts, tools, and practices.
 
 Inside this repository, you'll find:
