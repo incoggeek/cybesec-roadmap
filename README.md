@@ -17,9 +17,9 @@ Whether you're interested in exploring ethical hacking, network security, crypto
 
 Get ready to embark on your cybersecurity journey and become a cybersecurity enthusiast with Cybersecurity for Beginners!
 
-## Learning Path
+## Learning Path 🧠
 <details>
-<summary>Linux</summary>
+<summary>Linux: Tux's Playground: Exploring the Linux World</summary>
  <!-- PLAYLIST1:START --><table>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=Ope97qAVTxg"><img width="140px" src="http://img.youtube.com/vi/Ope97qAVTxg/maxresdefault.jpg"></a></td>
@@ -59,7 +59,7 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 </details>
 
 <details>
-<summary>Computer Networks</summary>
+<summary>Computer Networks: Network Nirvana: Journey into Networking</summary>
  <!-- PLAYLIST2:START --><table>
  <tr>
  <td><a href="https://www.youtube.com/watch?v=NTLSav6LOU4"><img width="140px" src="http://img.youtube.com/vi/NTLSav6LOU4/maxresdefault.jpg"></a></td>
@@ -99,7 +99,7 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 </details>
 
 <details>
-<summary>SQL</summary>
+<summary>SQL: Data Diving: Mastering SQL Queries</summary>
  <!-- PLAYLIST3:START --><table>
  <tr>
  <td><a href="https://www.youtube.com/watch?v=wTmxYH1sWYQ"><img width="140px" src="http://img.youtube.com/vi/wTmxYH1sWYQ/maxresdefault.jpg"></a></td>
@@ -139,7 +139,7 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 </details>
 
 <details>
-<summary>Python</summary>
+<summary>Python: Pythonic Prowess: Unleashing Python Power</summary></summary>
  <!-- PLAYLIST4:START --><table>
  <tr>
  <td><a href="https://www.youtube.com/watch?v=JGQ28ui1FYA"><img width="140px" src="http://img.youtube.com/vi/JGQ28ui1FYA/maxresdefault.jpg"></a></td>
@@ -179,7 +179,7 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 </details>
 
 <details>
-<summary>OSINT</summary>
+<summary>OSINT: Digital Detective: Unlocking OSINT Secrets</summary>
  <!-- PLAYLIST5:START --><table>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=5EnOcAkM66M"><img width="140px" src="http://img.youtube.com/vi/5EnOcAkM66M/maxresdefault.jpg"></a></td>
@@ -219,7 +219,7 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 </details>
 
 <details>
-<summary>Bash</summary>
+<summary>Bash: Bash Bliss: Navigating the Command Line</summary>
  <!-- PLAYLIST6:START --><table>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=CXctlP56724"><img width="140px" src="http://img.youtube.com/vi/CXctlP56724/maxresdefault.jpg"></a></td>
@@ -259,7 +259,7 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 </details>
 
 <details>
-<summary>Basic Concepts</summary>
+<summary>Basic Concepts: Foundations of Tech: Essential Concepts Demystified</summary>
  <!-- PLAYLIST7:START --><table>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=x-xwDES1MMA"><img width="140px" src="http://img.youtube.com/vi/x-xwDES1MMA/maxresdefault.jpg"></a></td>
@@ -299,7 +299,7 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 </details>
 
 <details>
-<summary>Bug Bounty</summary>
+<summary>Bug Bounty: Bug Bounty Bonanza: Hunting for Vulnerabilities</summary>
  <!-- PLAYLIST8:START --><table>
 <tr>
 <td><a href="https://www.youtube.com/watch?v=AScuMC_5D4Y"><img width="140px" src="http://img.youtube.com/vi/AScuMC_5D4Y/maxresdefault.jpg"></a></td>
@@ -338,7 +338,7 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 <!-- PLAYLIST8:END -->
 </details>
 
-## Writeups
+## Writeups ✍️
 <!-- WRITEUPS:START -->
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
@@ -357,7 +357,7 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 <!-- WRITEUPS:END -->
 
-## Playground
+## Playground 🧑🏻‍💻
 - [Try Hack Me](https://tryhackme.com)
 - [PortSwigger](https://portswigger.net/web-security)
 - [Promptml - XSS](https://prompt.ml/)
