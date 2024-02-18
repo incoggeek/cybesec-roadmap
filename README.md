@@ -1,4 +1,4 @@
-# Linux Fundamentals to Advance
+## Linux Fundamentals to Advance
 <!-- PLAYLIST1:START --><details>
 <summary>Playlist 1</summary>
 <table>
@@ -51,7 +51,7 @@
 
 <!-- PLAYLIST1:END -->
 
-# Network Fundamentals to Advance
+## Network Fundamentals to Advance
 <!-- PLAYLIST2:START --><details>
 <summary>Playlist 2</summary>
 <table>
@@ -104,7 +104,7 @@
 
 <!-- PLAYLIST2:END -->
 
-# SQL Fundamentals to Advance
+## SQL Fundamentals to Advance
 <!-- PLAYLIST3:START --><details>
 <summary>Playlist 3</summary>
 <table>
@@ -157,7 +157,7 @@
 
 <!-- PLAYLIST3:END -->
 
-# Python fundamentals with cool projects
+## Python fundamentals with cool projects
 <!-- PLAYLIST4:START --><details>
  <summary>Playlist 4</summary>
  <table>
@@ -210,7 +210,7 @@
  
 <!-- PLAYLIST4:END -->
 
-# OSINT
+## OSINT
 <!-- PLAYLIST5:START --><details>
 <summary>Playlist 5</summary>
 <table>
@@ -263,7 +263,7 @@
 
 <!-- PLAYLIST5:END -->
 
-# Bash Scripting
+## Bash Scripting
 <!-- PLAYLIST6:START --><details>
  <summary>Playlist 6</summary>
  <table>
@@ -316,7 +316,7 @@
  
 <!-- PLAYLIST6:END -->
 
-# Important Concepts
+## Important Concepts
 <!-- PLAYLIST7:START --><details>
 <summary>Playlist 6</summary>
 <table>
@@ -369,7 +369,7 @@
 
 <!-- PLAYLIST7:END -->
 
-# Bug Bounty
+## Bug Bounty
 <!-- PLAYLIST8:START --><details>
 <summary>Playlist 8</summary>
 <table>
