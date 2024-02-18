@@ -389,3 +389,9 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 - [HackerRank](https://www.hackerrank.com)
 - [kaggle](https://www.kaggle.com/)
 - [Zenk-Security](https://www.zenk-security.com/)
+
+## Connect with Us
+<p align="left">
+<a href="https://in.linkedin.com/company/defronix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://www.instagram.com/teamdefronix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="defronix" height="30" width="30" /></a>
+</p>
