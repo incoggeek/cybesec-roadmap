@@ -59,7 +59,7 @@ jobs:
            <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-            <td><a href="$url">$title</a><br/>$date</td>
+            <td><a href="$url">$title</a><br/>$date ![YouTube Video Views](https://img.shields.io/youtube/views/$videoId)</td>
             </tr>
             </table>
             $newline
