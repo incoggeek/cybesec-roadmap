@@ -2,36 +2,36 @@
 <!-- BLOG-POST-LIST:START -->$playlistTitle
 <table>
 <tr>
-<td><a href="https://www.youtube.com/watch?v=wTmxYH1sWYQ"><img width="140px" src="http://img.youtube.com/vi/wTmxYH1sWYQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wTmxYH1sWYQ">Day-9 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 30, 2023</td>
+<td><a href="https://www.youtube.com/watch?v=JGQ28ui1FYA"><img width="140px" src="http://img.youtube.com/vi/JGQ28ui1FYA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JGQ28ui1FYA">Day-7 Python For Cyber Security Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 11, 2023</td>
 </tr>
 </table>
 $playlistTitle
 <table>
 <tr>
-<td><a href="https://www.youtube.com/watch?v=18kiXQjlUno"><img width="140px" src="http://img.youtube.com/vi/18kiXQjlUno/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=18kiXQjlUno">Day-8 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 28, 2023</td>
+<td><a href="https://www.youtube.com/watch?v=gS0LOMg_QxI"><img width="140px" src="http://img.youtube.com/vi/gS0LOMg_QxI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gS0LOMg_QxI">Day-6 Python For Cyber Security Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 10, 2023</td>
 </tr>
 </table>
 $playlistTitle
 <table>
 <tr>
-<td><a href="https://www.youtube.com/watch?v=_iR4HpEk_T4"><img width="140px" src="http://img.youtube.com/vi/_iR4HpEk_T4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_iR4HpEk_T4">Day-7 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 27, 2023</td>
+<td><a href="https://www.youtube.com/watch?v=BJjamYtz35c"><img width="140px" src="http://img.youtube.com/vi/BJjamYtz35c/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BJjamYtz35c">Day-5 Python For Cyber Security Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 9, 2023</td>
 </tr>
 </table>
 $playlistTitle
 <table>
 <tr>
-<td><a href="https://www.youtube.com/watch?v=5VvoF6_rowo"><img width="140px" src="http://img.youtube.com/vi/5VvoF6_rowo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5VvoF6_rowo">Day-6 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 26, 2023</td>
+<td><a href="https://www.youtube.com/watch?v=NXn40_buXXI"><img width="140px" src="http://img.youtube.com/vi/NXn40_buXXI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NXn40_buXXI">Day-4 Python For Cyber Security Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 8, 2023</td>
 </tr>
 </table>
 $playlistTitle
 <table>
 <tr>
-<td><a href="https://www.youtube.com/watch?v=zDNewIvKmLY"><img width="140px" src="http://img.youtube.com/vi/zDNewIvKmLY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zDNewIvKmLY">Day-5 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 25, 2023</td>
+<td><a href="https://www.youtube.com/watch?v=Q46Gr-BZeMs"><img width="140px" src="http://img.youtube.com/vi/Q46Gr-BZeMs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Q46Gr-BZeMs">Day-3 Python For Cyber Security Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 7, 2023</td>
 </tr>
 </table>
 <!-- BLOG-POST-LIST:END -->
