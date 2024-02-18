@@ -46,7 +46,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Fetch and insert videos from Playlist 2
-        id: PLOJR6EhNalnu7hgxu7QhA9GrF9i23JX9A
+        id: PLOJR6EhNalnvp092-sA_LWbqQsJHavUK2
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnvp092-sA_LWbqQsJHavUK2"
