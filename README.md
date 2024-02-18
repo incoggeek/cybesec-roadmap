@@ -380,7 +380,14 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 | [kaggle](https://www.kaggle.com/)                  | [Zenk-Security](https://www.zenk-security.com/)      |
 
 # FAQs
-<!-- FAQS:START -->
+<!-- FAQS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LlTrT5xzjoQ"><img width="140px" src="http://img.youtube.com/vi/LlTrT5xzjoQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LlTrT5xzjoQ">He Cracked CHFI - How To Crack CHFI Easily Ft. Abhilash | Defronix Pod #2</a><br/>Oct 17, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=quopplZJHRw"><img width="140px" src="http://img.youtube.com/vi/quopplZJHRw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=quopplZJHRw">Cyber Security Career Roadmap [ From Zero To Pro ] [ Hindi ]</a><br/>Aug 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=V05Gdwlwfb0"><img width="140px" src="http://img.youtube.com/vi/V05Gdwlwfb0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=V05Gdwlwfb0">Serious Problems &amp; Career Guidance To Cyber Security With Sachin - Defronix Pod #1 [ Hindi ]</a><br/>Jun 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6zeWFGqM_5E"><img width="140px" src="http://img.youtube.com/vi/6zeWFGqM_5E/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6zeWFGqM_5E">Complete Roadmap To Cyber Security 2023 - For Beginners [ Hindi ]</a><br/>Jun 3, 2023</td></tr></table>
 <!-- FAQS:END -->
 
 ## Connect with Us
