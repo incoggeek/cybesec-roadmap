@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "WRITEUPS"
-          feed_list: "https://technicalnavigator.in/category/linux-android-windows/"
+          feed_list: "https://technicalnavigator.in/category/linux-android-windows/feed/"
           template: "<tr><td>$title</td><td>$url</td></tr>"
