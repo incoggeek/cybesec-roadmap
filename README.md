@@ -340,16 +340,6 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
 
 ## Writeups ✍️
 <!-- WRITEUPS:START -->
-- [Day 2 of IWCON 2023 Cybersecurity Conference Has Started](https://infosecwriteups.com/day-2-of-iwcon-2023-cybersecurity-conference-has-started-e0dd3bd042bd?source=rss-fb5f750de97c------2)
-- [Less Than 12 Hours Left For IWCON2023](https://infosecwriteups.com/less-than-12-hours-left-for-iwcon2023-c555b9fab80e?source=rss-fb5f750de97c------2)
-- [From CloudSec to Application Security, Bug Bounties to Cybersecurity tooling, and More](https://infosecwriteups.com/from-cloudsec-to-application-security-bug-bounties-to-cybersecurity-tooling-and-more-9f4a1819620c?source=rss-fb5f750de97c------2)
-- [Only 3 Days Left For IWCON 2023](https://infosecwriteups.com/only-3-days-left-for-iwcon-2023-bab915df5ae8?source=rss-fb5f750de97c------2)
-- [Who Will You Learn From at IWCON 2023?](https://infosecwriteups.com/who-will-you-learn-from-at-iwcon-2023-3f080b5f0ac4?source=rss-fb5f750de97c------2)
-- [#1 Tip for Beginners in Cybersecurity and Hacking](https://infosecwriteups.com/1-tip-for-beginners-in-cybersecurity-and-hacking-247e3a86d6cb?source=rss-fb5f750de97c------2)
-- [IWCON 0x03 is 13 Days Away](https://infosecwriteups.com/iwcon-0x03-is-13-days-away-46aac82a5b00?source=rss-fb5f750de97c------2)
-- [Announcing IWCON 2023 Speakers Final Batch](https://infosecwriteups.com/announcing-iwcon-2023-speakers-final-batch-9ad477d30dcb?source=rss-fb5f750de97c------2)
-- [IWCON 2023 CTF Registrations Now Open](https://infosecwriteups.com/iwcon-2023-ctf-registrations-now-open-46c2611714f0?source=rss-fb5f750de97c------2)
-- [Introducing IW’s Video Interview Series with Founders](https://infosecwriteups.com/introducing-iws-video-interview-series-with-founders-2005265d7753?source=rss-fb5f750de97c------2)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
