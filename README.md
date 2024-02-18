@@ -261,6 +261,34 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
  </tr>
  </table>
  
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=SAdEQ4aIjpQ"><img width="140px" src="http://img.youtube.com/vi/SAdEQ4aIjpQ/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=SAdEQ4aIjpQ">Day-4 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 24, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=UwQIW30aWkA"><img width="140px" src="http://img.youtube.com/vi/UwQIW30aWkA/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=UwQIW30aWkA">Day-3 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 23, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=VK-3D8ia7AA"><img width="140px" src="http://img.youtube.com/vi/VK-3D8ia7AA/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=VK-3D8ia7AA">Day-2 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 22, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=rWBBb3uRN0A"><img width="140px" src="http://img.youtube.com/vi/rWBBb3uRN0A/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=rWBBb3uRN0A">Day-1 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 21, 2023</td>
+ </tr>
+ </table>
+ 
 <!-- PLAYLIST3:END -->
 </details>
 
