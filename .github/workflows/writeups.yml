@@ -15,5 +15,5 @@ jobs:
         with:
           comment_tag_name: "WRITEUPS"
           max_post_count: "15"
-          feed_list: "https://technicalnavigator.in/category/linux-android-windows/feed/,https://medium.com/feed/@infosecwriteups/,https://www.bleepingcomputer.com/tutorials/feed/"
+          feed_list: "https://medium.com/feed/@infosecwriteups/,https://www.bleepingcomputer.com/tutorials/feed/,https://technicalnavigator.in/category/linux-android-windows/feed/"
 
