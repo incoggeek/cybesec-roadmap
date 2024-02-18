@@ -22,14 +22,12 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
-            <details>
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
             <td><a href="$url">$title</a><br/>$date</td>
             </tr>
             </table>
-            </details>
             $newline
       - name: Fetch and insert videos from Playlist 2
         id: playlist_2
@@ -40,15 +38,12 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
-            <details>
-            <summary>Playlist 2</summary>
-            <table>
+           <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
             <td><a href="$url">$title</a><br/>$date</td>
             </tr>
             </table>
-            </details>
             $newline
 
       # Fetch and insert videos from Playlist 3
@@ -61,15 +56,12 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
-            <details>
-            <summary>Playlist 3</summary>
-            <table>
+           <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
             <td><a href="$url">$title</a><br/>$date</td>
             </tr>
             </table>
-            </details>
             $newline
 
       # Fetch and insert videos from Playlist 4
@@ -81,16 +73,13 @@ jobs:
           comment_tag_name: "PLAYLIST4"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: |
-           <details>
-            <summary>Playlist 4</summary>
-            <table>
+          template: | 
+           <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
             <td><a href="$url">$title</a><br/>$date</td>
             </tr>
             </table>
-            </details>
             $newline
 
       # Fetch and insert videos from Playlist 5
@@ -103,15 +92,12 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
-            <details>
-            <summary>Playlist 5</summary>
-            <table>
+             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
             <td><a href="$url">$title</a><br/>$date</td>
             </tr>
             </table>
-            </details>
             $newline
 
       # Fetch and insert videos from Playlist 6
@@ -124,15 +110,12 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
-           <details>
-            <summary>Playlist 6</summary>
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
             <td><a href="$url">$title</a><br/>$date</td>
             </tr>
             </table>
-            </details>
             $newline
 
       # Fetch and insert videos from Playlist 7
@@ -145,15 +128,12 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: |
-            <details>
-            <summary>Playlist 6</summary>
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
             <td><a href="$url">$title</a><br/>$date</td>
             </tr>
             </table>
-            </details>
             $newline
 
         # Fetch and insert videos from Playlist 8
@@ -166,13 +146,10 @@ jobs:
           comment_tag_name: "PLAYLIST8"
           date_format: "mmm d, yyyy"
           template: |
-            <details>
-            <summary>Playlist 8</summary>
             <table>
             <tr>
             <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
             <td><a href="$url">$title</a><br/>$date</td>
             </tr>
             </table>
-            </details>
             $newline
