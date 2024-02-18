@@ -329,6 +329,20 @@ Get ready to embark on your cybersecurity journey and become a cybersecurity ent
  </tr>
  </table>
  
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=-GhQ4ZazzVs"><img width="140px" src="http://img.youtube.com/vi/-GhQ4ZazzVs/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=-GhQ4ZazzVs">Day-2 Python For Cyber Security Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 6, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=oyTJwvqubq0"><img width="140px" src="http://img.youtube.com/vi/oyTJwvqubq0/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=oyTJwvqubq0">Day-1 Python For Cyber Security Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 5, 2023</td>
+ </tr>
+ </table>
+ 
 <!-- PLAYLIST4:END -->
 </details>
 
