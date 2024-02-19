@@ -213,7 +213,69 @@
 
 <details>
 <summary>SQL</summary>
-  <!-- SQL:START -->
+  <!-- SQL:START --><table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=wTmxYH1sWYQ"><img width="140px" src="http://img.youtube.com/vi/wTmxYH1sWYQ/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=wTmxYH1sWYQ">Day-9 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 30, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=18kiXQjlUno"><img width="140px" src="http://img.youtube.com/vi/18kiXQjlUno/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=18kiXQjlUno">Day-8 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 28, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=_iR4HpEk_T4"><img width="140px" src="http://img.youtube.com/vi/_iR4HpEk_T4/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=_iR4HpEk_T4">Day-7 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 27, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=5VvoF6_rowo"><img width="140px" src="http://img.youtube.com/vi/5VvoF6_rowo/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=5VvoF6_rowo">Day-6 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 26, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=zDNewIvKmLY"><img width="140px" src="http://img.youtube.com/vi/zDNewIvKmLY/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=zDNewIvKmLY">Day-5 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 25, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=SAdEQ4aIjpQ"><img width="140px" src="http://img.youtube.com/vi/SAdEQ4aIjpQ/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=SAdEQ4aIjpQ">Day-4 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 24, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=UwQIW30aWkA"><img width="140px" src="http://img.youtube.com/vi/UwQIW30aWkA/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=UwQIW30aWkA">Day-3 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 23, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=VK-3D8ia7AA"><img width="140px" src="http://img.youtube.com/vi/VK-3D8ia7AA/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=VK-3D8ia7AA">Day-2 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 22, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=rWBBb3uRN0A"><img width="140px" src="http://img.youtube.com/vi/rWBBb3uRN0A/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=rWBBb3uRN0A">Day-1 SQL Free Live Training Capsule Course [ Hindi ]</a><br/>Aug 21, 2023</td>
+ </tr>
+ </table>
+ 
 <!-- SQL:END -->
 
 </details>
