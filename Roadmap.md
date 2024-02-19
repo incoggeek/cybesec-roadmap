@@ -843,7 +843,13 @@
 <details>
 <summary>Playlist</summary>
 
-<!-- DIGITAL FORENSICS:START -->
+<!-- DIGITAL FORENSICS:START --><table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=TalXcA6h3Fs"><img width="140px" src="http://img.youtube.com/vi/TalXcA6h3Fs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TalXcA6h3Fs">Digital Forensics Full Course With Practicals - First On YouTube [ Hindi ]</a><br/>Sep 1, 2023</td>
+</tr>
+</table>
+
 <!-- DIGITAL FORENSICS:END -->
 
 </details>
