@@ -1,3 +1,5 @@
+Welcome Hackers, this is your go-to resource for learning the fundamentals of cybersecurity! Whether you're completely new to the field or looking to expand your knowledge, this repository is designed to provide you with a comprehensive introduction to cybersecurity concepts, tools, and practices.
+
 <img src="https://github.com/incoggeek/cybesec-roadmap/blob/master/roadmap.gif" alt="Cybersecurity"  height="400" width="1000"/>
 
 Before embarking on your journey into cybersecurity, it's essential to have a solid foundation in the following areas:
@@ -962,3 +964,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 | [Vulnhub](https://www.vulnhub.com)                | [W3Challs](https://w3challs.com)                     |
 | [WeChall](http://www.wechall.net)                 | [HackerRank](https://www.hackerrank.com)             |
 | [kaggle](https://www.kaggle.com/)                  | [Zenk-Security](https://www.zenk-security.com/)      |
+
+## Tool 🛠️🤝
+Looking to streamline your cybersecurity journey? Look no further than CyberHub - the all-in-one tool designed to elevate your security practices to the next level. [Cyberonix Tool](https://github.com/TeamDefronix/Cyberonix)
+
+## FAQs 🧐🥴
+<!-- FAQS:START -->
+<!-- FAQS:END -->
+
+## Connect With Us
+
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/defronixcommunity)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/company/defronix)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teamdefronix)
