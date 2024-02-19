@@ -14,6 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "WRITEUPS"
-          max_post_count: "100"
+          max_post_count: "500"
           readme_path:  ./Writeups.md
-          feed_list: "https://technicalnavigator.in/category/linux-android-windows/feed/,https://medium.com/feed/@infosecwriteups/,https://www.bleepingcomputer.com/tutorials/feed/"
+          feed_list: "https://technicalnavigator.in/category/linux-android-windows/feed/,https://medium.com/feed/@infosecwriteups/,https://medium.com/feed/tag/bug-bounty-writeup,https://www.bleepingcomputer.com/tutorials/feed/"
