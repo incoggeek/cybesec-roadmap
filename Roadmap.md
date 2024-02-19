@@ -894,3 +894,33 @@ Cybersecurity is a diverse field with numerous specialized domains, each focusin
 
 
 </details>
+
+Blogs provide valuable insights, tutorials, and updates on cybersecurity trends, tools, and techniques, serving as a knowledge hub for professionals to stay informed and enhance their skills. Meanwhile, Capture The Flag (CTF) competitions offer hands-on, interactive challenges that allow practitioners to apply theoretical knowledge in real-world scenarios, honing their problem-solving abilities and fostering collaboration within the cybersecurity community. Both blogs and CTFs play pivotal roles in continuous learning and skill development, empowering cybersecurity enthusiasts to stay ahead of evolving threats and contribute effectively to the field. 
+
+## Resources
+
+### Writeups
+<!-- WRITEUPS:START -->
+<!-- WRITEUPS:END -->
+
+### Capture The Flag (CTF) Platforms
+
+| Resource     1                | Resource        2               |
+|------------------------------|--------------------------------|
+| [Try Hack Me](https://tryhackme.com)               | [PortSwigger](https://portswigger.net/web-security)          |
+| [Promptml - XSS](https://prompt.ml/)               | [Attack-Defense](https://attackdefense.com)            |
+| [alert to win](https://alf.nu/alert1)             | [CMD Challenge](https://cmdchallenge.com)             |
+| [Exploration Education](https://exploit.education) | [Google CTF](https://capturetheflag.withgoogle.com)   |
+| [HackTheBox](https://www.hackthebox.com/)          | [Defendtheweb](https://defendtheweb.net/)             |
+| [Hacksplaining](https://www.hacksplaining.com/lessons) | [Hacker101](https://ctf.hacker101.com)                |
+| [Hacker Security](https://capturetheflag.com.br)   | [Hacking-Lab](https://www.hacking-lab.com/events/)   |
+| [HSTRIKE](https://hstrike.com)                    | [ImmersiveLabs](https://immersivelabs.com)           |
+| [NewbieContest](https://www.newbiecontest.org/)   | [OverTheWire](http://overthewire.org)                |
+| [Practical Pentest Labs](https://practicalpentestlabs.com) | [Pentestlab](https://pentesterlab.com)        |
+| [Penetration Testing Practice Labs](http://www.amanhardikar.com/mindmaps/Practice.html) | [PentestIT LAB](https://lab.pentestit.ru) |
+| [PicoCTF](https://picoctf.com)                    | [PWNABLE](https://pwnable.kr/play.php)               |
+| [Root-Me](https://www.root-me.org)                | [SANS Challenger](https://www.holidayhackchallenge.com) |
+| [SmashTheStack](http://smashthestack.org/wargames.html) | [The Cryptopals Crypto Challenges](https://cryptopals.com/) |
+| [Vulnhub](https://www.vulnhub.com)                | [W3Challs](https://w3challs.com)                     |
+| [WeChall](http://www.wechall.net)                 | [HackerRank](https://www.hackerrank.com)             |
+| [kaggle](https://www.kaggle.com/)                  | [Zenk-Security](https://www.zenk-security.com/)      |
