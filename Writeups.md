@@ -1,5 +1,6 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [Missed IWCON 2023? Catch Recorded Expert Sessions Here.](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-8d62cf34dd37?source=rss-fb5f750de97c------2)
 - [GitHub Recon- For Finding Sensitive Information](https://medium.com/@pawan_rawat/github-recon-for-finding-sensitive-information-aecdeb9c9dce?source=rss------bug_bounty_writeup-5)
 - [Tow Senario To Pre Account TakeOver](https://medium.com/@Hackoura001/tow-senario-to-pre-account-takeover-e437b772b0e2?source=rss------bug_bounty_writeup-5)
 - [Three simple Vulnerabilities while Recon](https://medium.com/@Hackoura001/three-simple-vulnerabilities-while-recon-7c9c1534b9cf?source=rss------bug_bounty_writeup-5)
@@ -17,7 +18,6 @@
 - [IWCON 0x03 is 13 Days Away](https://infosecwriteups.com/iwcon-0x03-is-13-days-away-46aac82a5b00?source=rss-fb5f750de97c------2)
 - [Announcing IWCON 2023 Speakers Final Batch](https://infosecwriteups.com/announcing-iwcon-2023-speakers-final-batch-9ad477d30dcb?source=rss-fb5f750de97c------2)
 - [IWCON 2023 CTF Registrations Now Open](https://infosecwriteups.com/iwcon-2023-ctf-registrations-now-open-46c2611714f0?source=rss-fb5f750de97c------2)
-- [Introducing IW’s Video Interview Series with Founders](https://infosecwriteups.com/introducing-iws-video-interview-series-with-founders-2005265d7753?source=rss-fb5f750de97c------2)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
