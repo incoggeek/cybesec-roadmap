@@ -1,5 +1,14 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [Day 14 Bug Bounty Challenge — Found $1000 Stored XSS](https://medium.com/@avbhijitdutta99/day-14-bug-bounty-challenge-found-1000-stored-xss-c0c9813bbe5a?source=rss------bug_bounty_writeup-5)
+- [GitHub Recon- For Finding Sensitive Information](https://medium.com/@pawan_rawat/github-recon-for-finding-sensitive-information-aecdeb9c9dce?source=rss------bug_bounty_writeup-5)
+- [Tow Senario To Pre Account TakeOver](https://medium.com/@Hackoura001/tow-senario-to-pre-account-takeover-e437b772b0e2?source=rss------bug_bounty_writeup-5)
+- [Three simple Vulnerabilities while Recon](https://medium.com/@Hackoura001/three-simple-vulnerabilities-while-recon-7c9c1534b9cf?source=rss------bug_bounty_writeup-5)
+- [Price Manipulation Through Encoded Url Parameter on Private Program](https://medium.com/@bry4nzheng/idor-insecure-direct-object-referece-price-manipulation-through-encoded-url-parameter-4232fa4758b0?source=rss------bug_bounty_writeup-5)
+- [Business Logic Flaw Price Manipulation on Private Bug Bounty Program](https://medium.com/@bry4nzheng/idor-insecure-direct-object-reference-price-manipulation-on-private-bug-bounty-program-2527431ffcfd?source=rss------bug_bounty_writeup-5)
+- [Page Admin Disclosure — Meta Bug Bounty](https://infosecwriteups.com/page-admin-disclosure-meta-bug-bounty-66a28ec9cd6c?source=rss------bug_bounty_writeup-5)
+- [Easy way to get privilege escalation](https://medium.com/@Rzizah/easy-way-to-get-privilege-escalation-2c0a96862301?source=rss------bug_bounty_writeup-5)
+- [SSRF on a Headless Browser Becomes Critical!](https://medium.com/@Nightbloodz/ssrf-on-a-headless-browser-becomes-critical-c08daaa1017e?source=rss------bug_bounty_writeup-5)
 - [Day 2 of IWCON 2023 Cybersecurity Conference Has Started](https://infosecwriteups.com/day-2-of-iwcon-2023-cybersecurity-conference-has-started-e0dd3bd042bd?source=rss-fb5f750de97c------2)
 - [Less Than 12 Hours Left For IWCON2023](https://infosecwriteups.com/less-than-12-hours-left-for-iwcon2023-c555b9fab80e?source=rss-fb5f750de97c------2)
 - [From CloudSec to Application Security, Bug Bounties to Cybersecurity tooling, and More](https://infosecwriteups.com/from-cloudsec-to-application-security-bug-bounties-to-cybersecurity-tooling-and-more-9f4a1819620c?source=rss-fb5f750de97c------2)
