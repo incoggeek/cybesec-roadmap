@@ -792,7 +792,27 @@
 <details>
 <summary>Playlist</summary>
 
-<!-- MALWARE:START -->
+<!-- MALWARE:START --><table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=XVL0WK_-vgg"><img width="140px" src="http://img.youtube.com/vi/XVL0WK_-vgg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XVL0WK_-vgg">Day- 3 Malware Analysis Free Capsule Course [ Hindi ]</a><br/>Sep 3, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=3BwFfafLqG0"><img width="140px" src="http://img.youtube.com/vi/3BwFfafLqG0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3BwFfafLqG0">Day-2 Malware Analysis Free Capsule Course [ Hindi ]</a><br/>Aug 17, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=mXXvm6GDzS8"><img width="140px" src="http://img.youtube.com/vi/mXXvm6GDzS8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mXXvm6GDzS8">Day-1 Malware Analysis Lab Setup |  Free Capsule Course [ Hindi ]</a><br/>Aug 5, 2023</td>
+</tr>
+</table>
+
 <!-- MALWARE:END -->
 
 </details>
