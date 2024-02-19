@@ -445,7 +445,111 @@
 
 <details>
 <summary>Bash</summary>
-  <!-- BASH:START -->
+  <!-- BASH:START --><table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=CXctlP56724"><img width="140px" src="http://img.youtube.com/vi/CXctlP56724/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CXctlP56724">Day-15 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Nov 15, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=e0wqwpsTGIk"><img width="140px" src="http://img.youtube.com/vi/e0wqwpsTGIk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e0wqwpsTGIk">Day-14 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Nov 9, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=C1kOt7UTmyw"><img width="140px" src="http://img.youtube.com/vi/C1kOt7UTmyw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=C1kOt7UTmyw">Day-13 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Nov 1, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=lCr3fcY-Up8"><img width="140px" src="http://img.youtube.com/vi/lCr3fcY-Up8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lCr3fcY-Up8">Day-12 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Oct 27, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=g35lVI2yOPA"><img width="140px" src="http://img.youtube.com/vi/g35lVI2yOPA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=g35lVI2yOPA">Day-11 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Oct 25, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=FNACfIQFAC8"><img width="140px" src="http://img.youtube.com/vi/FNACfIQFAC8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FNACfIQFAC8">Day-10 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Oct 22, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=WgL9IXD02GU"><img width="140px" src="http://img.youtube.com/vi/WgL9IXD02GU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WgL9IXD02GU">Day-9 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Oct 19, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=HXooPoGJqU8"><img width="140px" src="http://img.youtube.com/vi/HXooPoGJqU8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HXooPoGJqU8">Day-8 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Oct 16, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=An1QFC2nsEg"><img width="140px" src="http://img.youtube.com/vi/An1QFC2nsEg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=An1QFC2nsEg">Day-7 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Oct 14, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=ymml_jnJgqI"><img width="140px" src="http://img.youtube.com/vi/ymml_jnJgqI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ymml_jnJgqI">Day-6 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Oct 12, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=pxEUg_awQhk"><img width="140px" src="http://img.youtube.com/vi/pxEUg_awQhk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pxEUg_awQhk">Day-5 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Oct 9, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=BzZ048GEkaM"><img width="140px" src="http://img.youtube.com/vi/BzZ048GEkaM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BzZ048GEkaM">Day-4 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Oct 7, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=7fft8cmMF1A"><img width="140px" src="http://img.youtube.com/vi/7fft8cmMF1A/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7fft8cmMF1A">Day-3 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Oct 5, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=ye8bKdh_-Fg"><img width="140px" src="http://img.youtube.com/vi/ye8bKdh_-Fg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ye8bKdh_-Fg">Day-2 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Oct 2, 2023</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=_7HKe7nsF18"><img width="140px" src="http://img.youtube.com/vi/_7HKe7nsF18/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_7HKe7nsF18">Day-1 Bash For Bug Bounty Live Training Capsule Course [ Hindi ]</a><br/>Sep 30, 2023</td>
+</tr>
+</table>
+
 <!-- BASH:END -->
 
 </details>
