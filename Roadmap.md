@@ -903,6 +903,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Web Cache Poisoing leads to ATO &lpar;Account takeover&rpar;](https://medium.com/@hoosgamer/web-cache-poisoing-leads-to-ato-account-takeover-2522b4583a97?source=rss------bug_bounty_writeup-5)
 - [Missed IWCON 2023? Catch Recorded Expert Sessions Here.](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-8d62cf34dd37?source=rss-fb5f750de97c------2)
 - [GitHub Recon- For Finding Sensitive Information](https://medium.com/@pawan_rawat/github-recon-for-finding-sensitive-information-aecdeb9c9dce?source=rss------bug_bounty_writeup-5)
 - [Tow Senario To Pre Account TakeOver](https://medium.com/@Hackoura001/tow-senario-to-pre-account-takeover-e437b772b0e2?source=rss------bug_bounty_writeup-5)
