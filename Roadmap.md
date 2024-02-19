@@ -747,15 +747,15 @@ Cybersecurity is a diverse field with numerous specialized domains, each focusin
 </details>
 
 <details>
-<summary>Advanced</summary>
+<summary>Advanced Certificate</summary>
 
-- [Advanced](#)
+- [Advanced Certificate](#)
 </details>
 
 <details>
-<summary>Writeups</summary>
+<summary>Journey Writeups</summary>
 
-- [Writeups](#)
+- [Journey Writeups](#)
 </details>
 
 </details>
@@ -791,15 +791,15 @@ Cybersecurity is a diverse field with numerous specialized domains, each focusin
 </details>
 
 <details>
-<summary>Advanced</summary>
+<summary>Advanced Certificate</summary>
 
-- [Advanced](#)
+- [Advanced Certificate](#)
 </details>
 
 <details>
-<summary>Writeups</summary>
+<summary>Journey Writeups</summary>
 
-- [Writeups](#)
+- [Journey Writeups](#)
 </details>
 
 </details>
@@ -842,15 +842,15 @@ Cybersecurity is a diverse field with numerous specialized domains, each focusin
 </details>
 
 <details>
-<summary>Advanced</summary>
+<summary>Advanced Certificate</summary>
 
-- [Advanced](#)
+- [Advanced Certificate](#)
 </details>
 
 <details>
-<summary>Writeups</summary>
+<summary>Journey Writeups</summary>
 
-- [Writeups](#)
+- [Journey Writeups](#)
 </details>
 
 </details>
@@ -879,15 +879,15 @@ Cybersecurity is a diverse field with numerous specialized domains, each focusin
 </details>
 
 <details>
-<summary>Advanced</summary>
+<summary>Advanced Certificate</summary>
 
-- [Advanced](#)
+- [Advanced Certificate](#)
 </details>
 
 <details>
-<summary>Writeups</summary>
+<summary>Journey Writeups</summary>
 
-- [Writeups](#)
+- [Journey Writeups](#)
 </details>
 
 </details>
