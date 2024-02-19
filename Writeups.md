@@ -1,6 +1,5 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
-- [Day 14 Bug Bounty Challenge — Found $1000 Stored XSS](https://medium.com/@avbhijitdutta99/day-14-bug-bounty-challenge-found-1000-stored-xss-c0c9813bbe5a?source=rss------bug_bounty_writeup-5)
 - [GitHub Recon- For Finding Sensitive Information](https://medium.com/@pawan_rawat/github-recon-for-finding-sensitive-information-aecdeb9c9dce?source=rss------bug_bounty_writeup-5)
 - [Tow Senario To Pre Account TakeOver](https://medium.com/@Hackoura001/tow-senario-to-pre-account-takeover-e437b772b0e2?source=rss------bug_bounty_writeup-5)
 - [Three simple Vulnerabilities while Recon](https://medium.com/@Hackoura001/three-simple-vulnerabilities-while-recon-7c9c1534b9cf?source=rss------bug_bounty_writeup-5)
