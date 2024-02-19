@@ -893,13 +893,13 @@ Cybersecurity is a diverse field with numerous specialized domains, each focusin
 </details>
 
 
-</details>
+</details> 
 
-Blogs provide valuable insights, tutorials, and updates on cybersecurity trends, tools, and techniques, serving as a knowledge hub for professionals to stay informed and enhance their skills. Meanwhile, Capture The Flag (CTF) competitions offer hands-on, interactive challenges that allow practitioners to apply theoretical knowledge in real-world scenarios, honing their problem-solving abilities and fostering collaboration within the cybersecurity community. Both blogs and CTFs play pivotal roles in continuous learning and skill development, empowering cybersecurity enthusiasts to stay ahead of evolving threats and contribute effectively to the field. 
+## Resources 📚💡
 
-## Resources
+Blogs provide valuable insights, tutorials, and updates on cybersecurity trends, tools, and techniques, serving as a knowledge hub for professionals to stay informed and enhance their skills. Meanwhile, Capture The Flag (CTF) competitions offer hands-on, interactive challenges that allow practitioners to apply theoretical knowledge in real-world scenarios, honing their problem-solving abilities and fostering collaboration within the cybersecurity community. Both blogs and CTFs play pivotal roles in continuous learning and skill development, empowering cybersecurity enthusiasts to stay ahead of evolving threats and contribute effectively to the field.
 
-### Writeups
+### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Missed IWCON 2023? Catch Recorded Expert Sessions Here.](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-8d62cf34dd37?source=rss-fb5f750de97c------2)
 - [GitHub Recon- For Finding Sensitive Information](https://medium.com/@pawan_rawat/github-recon-for-finding-sensitive-information-aecdeb9c9dce?source=rss------bug_bounty_writeup-5)
@@ -941,7 +941,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Disable Bing Search in the Windows 10 Start Menu](https://www.bleepingcomputer.com/tutorials/how-to-disable-bing-search-in-the-windows-10-start-menu/)
 <!-- WRITEUPS:END -->
 
-### Capture The Flag (CTF) Platforms
+### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
 
 | Resource     1                | Resource        2               |
 |------------------------------|--------------------------------|
