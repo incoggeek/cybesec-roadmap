@@ -7,7 +7,7 @@ permissions:
       contents: write
 jobs:
   update-readme-with-blog:
-    name: Writeups.md, README.md
+    name: Update this repo's Writeups
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -15,4 +15,5 @@ jobs:
         with:
           comment_tag_name: "WRITEUPS"
           max_post_count: "100"
+          readme_path:  ./Writeups.md
           feed_list: "https://technicalnavigator.in/category/linux-android-windows/feed/,https://medium.com/feed/@infosecwriteups/,https://www.bleepingcomputer.com/tutorials/feed/"
