@@ -1,4 +1,21 @@
-<details>
+<img src="https://github.com/incoggeek/cybesec-roadmap/blob/master/roadmap.gif" alt="Cybersecurity"  height="400" width="1000"/>
+
+Before embarking on your journey into cybersecurity, it's essential to have a solid foundation in the following areas:
+
+1. Linux Fundamentals: Understanding the Linux operating system is crucial for cybersecurity professionals. You should be comfortable navigating the command line interface, managing files and directories, and executing basic commands.
+
+2. Computer Networks: A strong understanding of computer networks is essential for understanding how data is transmitted and secured over the internet. Topics include network protocols, addressing, routing, and network security principles.
+
+3. SQL: Knowledge of Structured Query Language (SQL) is vital for understanding database management systems and conducting database-related attacks and defenses. You should be proficient in writing SQL queries, managing databases, and understanding database vulnerabilities.
+   
+Optional, but If you aspire to become a proficient hacker with a deeper understanding of development concepts, consider exploring the optional prerequisites in addition to the compulsory ones.
+
+5. Python: Python is widely used in cybersecurity for scripting, automation, and developing security tools. You should have a solid understanding of Python programming, including data types, control structures, functions, and object-oriented programming concepts.
+
+6. OSINT (Open-Source Intelligence): OSINT is the practice of collecting and analyzing publicly available information to gather intelligence. You should be familiar with OSINT tools and techniques for gathering information about individuals, organizations, and potential security threats.
+
+7. Bash Scripting: While not mandatory, proficiency in Bash scripting can be beneficial for automating tasks, managing system configurations, and conducting various cybersecurity operations on Unix-based systems.
+
 <summary>Prerequisites</summary>
 
 <details>
@@ -604,7 +621,8 @@
 </details>
 </details>
 
-<details>
+Cybersecurity is a diverse field with numerous specialized domains, each focusing on different aspects of protecting digital systems, networks, and data from cyber threats. As you embark on your cybersecurity journey, it's essential to explore the various domains to find your area of interest and expertise:
+
 <summary>Domain</summary>
 
 <details>
