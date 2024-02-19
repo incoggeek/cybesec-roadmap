@@ -116,7 +116,97 @@
 
 <details>
 <summary>Network</summary>
-<!-- NETWORK:START -->
+<!-- NETWORK:START --><table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=NTLSav6LOU4"><img width="140px" src="http://img.youtube.com/vi/NTLSav6LOU4/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=NTLSav6LOU4">Day-13 Network Security Free Capsule Course [ Hindi ]</a><br/>Nov 16, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=O_2hCNauTaY"><img width="140px" src="http://img.youtube.com/vi/O_2hCNauTaY/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=O_2hCNauTaY">Day-12 Network Security Free Capsule Course [ Hindi ]</a><br/>Nov 7, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=NbE_esW_h3w"><img width="140px" src="http://img.youtube.com/vi/NbE_esW_h3w/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=NbE_esW_h3w">Day-11 Network Security Free Capsule Course [ Hindi ]</a><br/>Oct 20, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=4lDjClhNVt0"><img width="140px" src="http://img.youtube.com/vi/4lDjClhNVt0/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=4lDjClhNVt0">Day-10 Network Security Free Capsule Course [ Hindi ]</a><br/>Oct 12, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=gIarr_IaY9A"><img width="140px" src="http://img.youtube.com/vi/gIarr_IaY9A/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=gIarr_IaY9A">Day-9 Network Security Free Capsule Course [ Hindi ]</a><br/>Oct 2, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=F21_GD3XjSs"><img width="140px" src="http://img.youtube.com/vi/F21_GD3XjSs/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=F21_GD3XjSs">Day-8 Network Security Free Capsule Course [ Hindi ]</a><br/>Sep 27, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=ZhTR0UFUF7c"><img width="140px" src="http://img.youtube.com/vi/ZhTR0UFUF7c/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=ZhTR0UFUF7c">Day-7 Network Security Free Capsule Course [ Hindi ]</a><br/>Sep 23, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=eI_0GfGTf8s"><img width="140px" src="http://img.youtube.com/vi/eI_0GfGTf8s/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=eI_0GfGTf8s">Day-6 Network Security Free Capsule Course [ Hindi ]</a><br/>Sep 13, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=EdFdKu6rLCA"><img width="140px" src="http://img.youtube.com/vi/EdFdKu6rLCA/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=EdFdKu6rLCA">Day-5 Network Security Free Capsule Course [ Hindi ]</a><br/>Sep 10, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=aphKb7o_Z7Q"><img width="140px" src="http://img.youtube.com/vi/aphKb7o_Z7Q/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=aphKb7o_Z7Q">Day-4 Network Security Free Capsule Course [Hindi]</a><br/>Sep 6, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=metl_YFwSAM"><img width="140px" src="http://img.youtube.com/vi/metl_YFwSAM/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=metl_YFwSAM">Day-3 Network Security Free Capsule Course [ Hindi ]</a><br/>Aug 30, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=JhGt7fvcW7g"><img width="140px" src="http://img.youtube.com/vi/JhGt7fvcW7g/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=JhGt7fvcW7g">Day-2 Network Security Free Capsule Course [ Hindi ]</a><br/>Aug 26, 2023</td>
+ </tr>
+ </table>
+ 
+<table>
+ <tr>
+ <td><a href="https://www.youtube.com/watch?v=9yguQdp_MTE"><img width="140px" src="http://img.youtube.com/vi/9yguQdp_MTE/maxresdefault.jpg"></a></td>
+ <td><a href="https://www.youtube.com/watch?v=9yguQdp_MTE">Day-1 Network Security Free Capsule Course [ Hindi ]</a><br/>Aug 18, 2023</td>
+ </tr>
+ </table>
+ 
 <!-- NETWORK:END -->
 
 </details>
