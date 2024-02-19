@@ -16,7 +16,7 @@ Optional, but If you aspire to become a proficient hacker with a deeper understa
 
 7. Bash Scripting: While not mandatory, proficiency in Bash scripting can be beneficial for automating tasks, managing system configurations, and conducting various cybersecurity operations on Unix-based systems.
 
-<summary>Prerequisites</summary>
+## Prerequisites 🗝️🤏
 
 <details>
 <summary>Compulsory</summary>
@@ -623,7 +623,7 @@ Optional, but If you aspire to become a proficient hacker with a deeper understa
 
 Cybersecurity is a diverse field with numerous specialized domains, each focusing on different aspects of protecting digital systems, networks, and data from cyber threats. As you embark on your cybersecurity journey, it's essential to explore the various domains to find your area of interest and expertise:
 
-<summary>Domain</summary>
+## Domain 🕵️⚔️
 
 <details>
 <summary>Web Pentesting</summary>
