@@ -1,4 +1,4 @@
-## CheatSheet For Tools available in Cyberonix 
+## CheatSheet For Tools available in Cyberonix 🚀🤯
 
 | Category               | Tool Name                          | Cheat Sheet Link                                                       |
 |------------------------|------------------------------------|------------------------------------------------------------------------|
@@ -105,8 +105,7 @@
 |           | Proxychain| [Proxychain Cheat Sheet](https://www.geeksforgeeks.org/how-to-setup-proxychains-in-linux-without-any-errors/) |
 |           | Nipe      | [Nipe Cheat Sheet](https://pentesttools.net/how-to-fully-anonymize-your-system-with-tor-using-nipe/) |
 | Framework           | Osint Framework| [Osint Framework Cheat Sheet](https://www.cheatsheet.wtf/OSINT/)                                      |
-| Information Gathering |
-|                       | Nmap         | [Nmap Cheat Sheet](https://www.tutorialspoint.com/nmap-cheat-sheet)                                    |
+| Information Gathering      | Nmap         | [Nmap Cheat Sheet](https://www.tutorialspoint.com/nmap-cheat-sheet)         |
 |                       | Subfinder    | [Subfinder Cheat Sheet](https://highon.coffee/blog/subfinder-cheat-sheet/)                               |
 |                       | Maltego      | [Maltego Cheat Sheet](https://static.maltego.com/cdn/Case%20studies/Building-Integrations-for-Maltego-Cheat-Sheet.pdf) |
 |                       | Red_Hawk     | [Red_Hawk Cheat Sheet](https://www.google.com/amp/s/secnhack.in/red_hawk-tool-for-information-gathering/amp/) |
@@ -213,7 +212,6 @@
 |                         | Social Engineering Toolkit | [Social Engineering Toolkit Cheat Sheet](https://www.exploit-db.com/docs/english/17701-social-engineering-toolkit.pdf) |
 |                         | Powersploit             | [Powersploit Cheat Sheet](https://github.com/HarmJ0y/CheatSheets/blob/master/PowerSploit.pdf)             |
 |                         | Mimikatz                | [Mimikatz Cheat Sheet](https://cheatography.com/wbtaylor/cheat-sheets/basic-mimikatz-usage/)               |
-|                         |                         | [Mimikatz Cheat Sheet](https://gist.github.com/insi2304/484a4e92941b437bad961fcacda82d49)                   |
 | Reporting               | Dradis                  | [Dradis Cheat Sheet](https://pentesttools.net/dradis-framework-collaboration-and-reporting-for-it-security-teams/) |
 |                         | Cherrytree              | [Cherrytree Cheat Sheet](https://giuspen.com/cherrytreemanual/)                                              |
 |                         | Cutycapt                | [Cutycapt Cheat Sheet](https://cutycapt.sourceforge.net/)                                                   |
