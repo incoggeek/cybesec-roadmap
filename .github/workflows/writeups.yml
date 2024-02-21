@@ -16,4 +16,4 @@ jobs:
           comment_tag_name: "WRITEUPS"
           max_post_count: "500"
           readme_path:  ./Writeups.md, Roadmap.md
-          feed_list: "https://technicalnavigator.in/category/linux-android-windows/feed/,https://infosecwriteups.com/feed,https://medium.com/feed/tag/bug-bounty-writeup,https://www.bleepingcomputer.com/tutorials/feed/"
+          feed_list: "https://technicalnavigator.in/category/linux-android-windows/feed/,https://www.hackerone.com/blog.rss,https://infosecwriteups.com/feed,https://medium.com/feed/tag/bug-bounty-writeup,https://www.bleepingcomputer.com/tutorials/feed/"
