@@ -903,6 +903,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found Multiple XSS Vulnerabilities Using Unknown Techniques](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d?source=rss----7b722bfd1b8d---4)
 - [10.3 Lab: SSRF with blacklist-based input filter | 2024](https://infosecwriteups.com/10-3-lab-ssrf-with-blacklist-based-input-filter-2024-9a7972ab7e8f?source=rss----7b722bfd1b8d---4)
 - [Circumventing Common SSRF Defenses: A Deep Dive into Strategies and Techniques](https://infosecwriteups.com/circumventing-common-ssrf-defenses-a-deep-dive-into-strategies-and-techniques-c9607f1bb61e?source=rss----7b722bfd1b8d---4)
 - [Mastering Wireshark: A Beginner’s Guide for Networks Analysis](https://infosecwriteups.com/mastering-wireshark-a-comprehensive-guide-for-networks-analysis-6b2b8d5c1812?source=rss----7b722bfd1b8d---4)
@@ -912,7 +913,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mastering Cross-Site Scripting &lpar;XSS&rpar;: Risks, Detection, and Prevention — Beginner’s Guide](https://infosecwriteups.com/mastering-cross-site-scripting-xss-risks-detection-and-prevention-3cee199d2fff?source=rss----7b722bfd1b8d---4)
 - [GTFOBins and LOLBAS: Mastering Binary Exploitation for Unix and Windows](https://infosecwriteups.com/gtfobins-and-lolbas-mastering-binary-exploitation-in-ethical-hacking-for-unix-and-windows-30dd86e52370?source=rss----7b722bfd1b8d---4)
 - [cybers11.3 Lab: Blind XXE with out-of-band interaction | 2024](https://infosecwriteups.com/cybers11-3-lab-blind-xxe-with-out-of-band-interaction-2024-9f2f5caf98ad?source=rss----7b722bfd1b8d---4)
-- [Setting Up Your Azure OpenAI BYOD: A Step-by-Step Guide](https://infosecwriteups.com/setting-up-your-azure-openai-byod-a-step-by-step-guide-cb016d0808f9?source=rss----7b722bfd1b8d---4)
 - [OTP Bypass Via Response Manipulation](https://maratherao93.medium.com/otp-bypass-via-response-manipulation-e55352c5c419?source=rss------bug_bounty_writeup-5)
 - [Simple Tips for Bug Bounty Beginners: Finding API Key Leakage Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-api-key-leakage-vulnerabilities-eddc416216ce?source=rss------bug_bounty_writeup-5)
 - [how i make 6,000$ with jwt manipulation on web3 crypto application ?](https://medium.com/@zack0x01_/how-i-make-6-000-with-jwt-manipulation-on-web3-crypto-application-1e659c927647?source=rss------bug_bounty_writeup-5)
@@ -975,10 +975,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne and the OWASP Top 10 for LLM: A Powerful Alliance for Secure AI](https://www.hackerone.com/vulnerability-management/owasp-llm-vulnerabilities)
 - [Company Update](https://www.hackerone.com/company-news/company-update)
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
-- [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
-- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
+- [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
+- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -1389,8 +1389,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Highlights of New York’s Cybersecurity Regulation 23 NYCRR Part 500](https://www.hackerone.com/security-compliance/highlights-new-yorks-cybersecurity-regulation-23-nycrr-part-500)
 - [H1-702 2018 makes history with over $500K in bounties paid!](https://www.hackerone.com/ethical-hacker/h1-702-2018-makes-history-over-500k-bounties-paid)
 - [What is a Responsible Disclosure Policy and Why You Need One](https://www.hackerone.com/vulnerability-management/what-responsible-disclosure-policy-and-why-you-need-one)
-- [7 Common Security Pitfalls to Avoid When Migrating to the Cloud](https://www.hackerone.com/application-security/7-common-security-pitfalls-avoid-when-migrating-cloud)
 - [118 Fascinating Facts from HackerOne’s Hacker-Powered Security Report 2018](https://www.hackerone.com/ethical-hacker/118-fascinating-facts-hackerones-hacker-powered-security-report-2018)
+- [7 Common Security Pitfalls to Avoid When Migrating to the Cloud](https://www.hackerone.com/application-security/7-common-security-pitfalls-avoid-when-migrating-cloud)
 - [Oath Bug Bounty Program Update: $1M in payouts and expansion of the program](https://www.hackerone.com/vulnerability-management/oath-bug-bounty-program-update-1m-payouts-and-expansion-program)
 - [Improve Credential Sharing with Hacker Email Aliases](https://www.hackerone.com/ethical-hacker/Improve-Credential-Sharing-Hacker-Email-Aliases)
 - [A Guide To Subdomain Takeovers](https://www.hackerone.com/application-security/guide-subdomain-takeovers)
