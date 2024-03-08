@@ -903,6 +903,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The White House Should Prioritize Cybersecurity in its Budget](https://www.hackerone.com/public-policy/white-house-budget-cybersecurity)
 - [Fixing Facebook: A Privacy Issue Ignored?](https://medium.com/@mynkpdr/fixing-facebook-a-privacy-issue-ignored-6c048dacc824?source=rss------bug_bounty_writeup-5)
 - [PostMessage , Cross-Window-Communication Misconfig &lpar; from out-of-scope to P2 with 5x reward &rpar;](https://mouhannadalhmedi.medium.com/cross-window-communication-misconfig-and-is-jquery-really-vulnerable-ec8f709f6dc4?source=rss------bug_bounty_writeup-5)
 - [SANS Offensive CTF - Taskist:: 01–04](https://infosecwriteups.com/sans-offensive-ctf-taskist-01-04-56452aa43905?source=rss----7b722bfd1b8d---4)
@@ -962,8 +963,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
 - [What Do New Cybersecurity Rules Mean For CISOs?](https://www.hackerone.com/security-compliance/new-cybersecurity-rules-for-cisos)
 - [About the HackerOne Engineering Mentoring Program](https://www.hackerone.com/culture-and-talent/engineer-mentoring)
-- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Women in Sales: The Importance of a Diverse Team](https://www.hackerone.com/culture-and-talent/women-in-sales)
+- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Why This Moment In Cybersecurity Needs Hackers To Protect All Software](https://www.hackerone.com/ceo/why-moment-cybersecurity-needs-hackers-protect-all-software)
 - [Ethical Hacking: Unveiling the Power of Hacking for Good in Cybersecurity](https://www.hackerone.com/thought-leadership/aws-podcast-ethical-hacking-cybersecurity)
 - [The Hacker Perspective on Generative AI and Cybersecurity](https://www.hackerone.com/thought-leadership/generative-ai-cybersecurity-hacker-perspective)
@@ -977,8 +978,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
-- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
+- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -1078,9 +1079,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [5 Security Stages of the DevSecOps Pipeline](https://www.hackerone.com/application-security/5-security-stages-devsecops-pipeline)
 - [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [Hacker&#39;s Health: Adverse Effects of Doomscrolling](https://www.hackerone.com/hackers-health-adverse-effects-doomscrolling)
-- [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
 - [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [HackerOne’s In-Depth Approach to Vulnerability Triage and Validation](https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation)
+- [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
 - [How Bug Bounty Uncovered A 5-Year-Old Vulnerability In Hours](https://www.hackerone.com/ethical-hacker/how-bug-bounty-uncovered-5-year-old-vulnerability-hours)
 - [Live Hacking Event Invitations - 2022 Guide](https://www.hackerone.com/live-hacking-event-invitations-2022-guide)
 - [CISOs: Do You Know the Security Risks of Your Organization&#39;s Next M&amp;A?](https://www.hackerone.com/vulnerability-management/cisos-do-you-know-security-risks-your-organizations-next-ma)
@@ -1389,8 +1390,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Highlights of New York’s Cybersecurity Regulation 23 NYCRR Part 500](https://www.hackerone.com/security-compliance/highlights-new-yorks-cybersecurity-regulation-23-nycrr-part-500)
 - [H1-702 2018 makes history with over $500K in bounties paid!](https://www.hackerone.com/ethical-hacker/h1-702-2018-makes-history-over-500k-bounties-paid)
 - [What is a Responsible Disclosure Policy and Why You Need One](https://www.hackerone.com/vulnerability-management/what-responsible-disclosure-policy-and-why-you-need-one)
-- [7 Common Security Pitfalls to Avoid When Migrating to the Cloud](https://www.hackerone.com/application-security/7-common-security-pitfalls-avoid-when-migrating-cloud)
 - [118 Fascinating Facts from HackerOne’s Hacker-Powered Security Report 2018](https://www.hackerone.com/ethical-hacker/118-fascinating-facts-hackerones-hacker-powered-security-report-2018)
+- [7 Common Security Pitfalls to Avoid When Migrating to the Cloud](https://www.hackerone.com/application-security/7-common-security-pitfalls-avoid-when-migrating-cloud)
 - [Oath Bug Bounty Program Update: $1M in payouts and expansion of the program](https://www.hackerone.com/vulnerability-management/oath-bug-bounty-program-update-1m-payouts-and-expansion-program)
 - [Improve Credential Sharing with Hacker Email Aliases](https://www.hackerone.com/ethical-hacker/Improve-Credential-Sharing-Hacker-Email-Aliases)
 - [A Guide To Subdomain Takeovers](https://www.hackerone.com/application-security/guide-subdomain-takeovers)
@@ -1402,7 +1403,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Lawfully Hacked](https://www.hackerone.com/ceo/lawfully-hacked)
 - [The Journey to 100% Responsive Programs](https://www.hackerone.com/ethical-hacker/journey-100-responsive-programs)
 - [Webinar: Learn How Hacker-Powered Pentests Give You More For Less](https://www.hackerone.com/penetration-testing/webinar-learn-how-hacker-powered-pentests-give-you-more-less)
-- [Morrison &amp; Foerster’s David Newman: How Corporate Counsel Should Approach Hacker-Powered Security](https://www.hackerone.com/ethical-hacker/morrison-foersters-david-newman-how-corporate-counsel-should-approach-hacker-powered)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
