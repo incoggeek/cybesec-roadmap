@@ -903,6 +903,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [NCSC Recognises The Work Of Ethical Hackers With An Appreciation Event](https://www.hackerone.com/customer-stories/ncsc-appreciation-event)
 - [Bug Bounty Challenge: Day 3/15–11/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-3-15-11-03-2024-38993610e657?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 2/15–10/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-10-03-2024-b946472d71c8?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 1/15–09/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-09-03-2024-f7b1824f2262?source=rss------bug_bounty_writeup-5)
@@ -977,10 +978,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne and the OWASP Top 10 for LLM: A Powerful Alliance for Secure AI](https://www.hackerone.com/vulnerability-management/owasp-llm-vulnerabilities)
 - [Company Update](https://www.hackerone.com/company-news/company-update)
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
-- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
-- [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
+- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
+- [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -1391,8 +1392,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Highlights of New York’s Cybersecurity Regulation 23 NYCRR Part 500](https://www.hackerone.com/security-compliance/highlights-new-yorks-cybersecurity-regulation-23-nycrr-part-500)
 - [H1-702 2018 makes history with over $500K in bounties paid!](https://www.hackerone.com/ethical-hacker/h1-702-2018-makes-history-over-500k-bounties-paid)
 - [What is a Responsible Disclosure Policy and Why You Need One](https://www.hackerone.com/vulnerability-management/what-responsible-disclosure-policy-and-why-you-need-one)
-- [118 Fascinating Facts from HackerOne’s Hacker-Powered Security Report 2018](https://www.hackerone.com/ethical-hacker/118-fascinating-facts-hackerones-hacker-powered-security-report-2018)
 - [7 Common Security Pitfalls to Avoid When Migrating to the Cloud](https://www.hackerone.com/application-security/7-common-security-pitfalls-avoid-when-migrating-cloud)
+- [118 Fascinating Facts from HackerOne’s Hacker-Powered Security Report 2018](https://www.hackerone.com/ethical-hacker/118-fascinating-facts-hackerones-hacker-powered-security-report-2018)
 - [Oath Bug Bounty Program Update: $1M in payouts and expansion of the program](https://www.hackerone.com/vulnerability-management/oath-bug-bounty-program-update-1m-payouts-and-expansion-program)
 - [Improve Credential Sharing with Hacker Email Aliases](https://www.hackerone.com/ethical-hacker/Improve-Credential-Sharing-Hacker-Email-Aliases)
 - [A Guide To Subdomain Takeovers](https://www.hackerone.com/application-security/guide-subdomain-takeovers)
@@ -1402,7 +1403,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Hacker-Powered Security Report 2018](https://www.hackerone.com/ethical-hacker/hacker-powered-security-report-2018)
 - [H1-702 CTF Winners Announced!](https://www.hackerone.com/ethical-hacker/h1-702-ctf-winners-announced)
 - [Lawfully Hacked](https://www.hackerone.com/ceo/lawfully-hacked)
-- [The Journey to 100% Responsive Programs](https://www.hackerone.com/ethical-hacker/journey-100-responsive-programs)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
