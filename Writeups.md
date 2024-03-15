@@ -1,5 +1,6 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [Account takeover via Password reset](https://medium.com/@Rahulkrishnan_R_Panicker/account-takeover-via-password-reset-c2658e1f58eb?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 5–14/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-5-14-03-2024-b8fe8dae8cb5?source=rss------bug_bounty_writeup-5)
 - [HackerOne’s In-Depth Approach to Vulnerability Triage and Validation](https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation)
 - [Shift Left is Dead: A Post Mortem](https://www.hackerone.com/vulnerability-management/shift-left-is-dead)
@@ -23,7 +24,6 @@
 - [Mastering Cross-Site Scripting &lpar;XSS&rpar;: Risks, Detection, and Prevention — Beginner’s Guide](https://infosecwriteups.com/mastering-cross-site-scripting-xss-risks-detection-and-prevention-3cee199d2fff?source=rss----7b722bfd1b8d---4)
 - [GTFOBins and LOLBAS: Mastering Binary Exploitation for Unix and Windows](https://infosecwriteups.com/gtfobins-and-lolbas-mastering-binary-exploitation-in-ethical-hacking-for-unix-and-windows-30dd86e52370?source=rss----7b722bfd1b8d---4)
 - [OTP Bypass Via Response Manipulation](https://maratherao93.medium.com/otp-bypass-via-response-manipulation-e55352c5c419?source=rss------bug_bounty_writeup-5)
-- [Simple Tips for Bug Bounty Beginners: Finding API Key Leakage Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-api-key-leakage-vulnerabilities-eddc416216ce?source=rss------bug_bounty_writeup-5)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
