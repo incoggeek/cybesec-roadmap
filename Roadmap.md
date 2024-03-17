@@ -903,9 +903,19 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HTB — Netmon](https://infosecwriteups.com/htb-netmon-5951e2a46486?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge: Day 7–16/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-7-16-03-2024-5c48ff96f9d0?source=rss------bug_bounty_writeup-5)
+- [Penetration Testing Microsoft Copilot 365](https://infosecwriteups.com/penetration-testing-microsoft-copilot-365-910301660dac?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge: Day 6–15/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-6-15-03-2024-a5c6c1a67647?source=rss------bug_bounty_writeup-5)
 - [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
+- [Story of Lock up users’ account by DOS attack cost $1,100](https://infosecwriteups.com/story-of-lock-up-users-account-by-dos-attack-cost-1-100-87b47d06a7c1?source=rss----7b722bfd1b8d---4)
+- [Practical Exploitation of XXE&lpar;CVE-2018–8033&rpar; and Mitigating in Apache OFBiz](https://infosecwriteups.com/practical-exploitation-of-xxe-cve-2018-8033-and-mitigating-in-apache-ofbiz-56ae8233c2b4?source=rss----7b722bfd1b8d---4)
+- [PwnAdventure: A Unique Blend of MMORPG and Cybersecurity Training](https://infosecwriteups.com/pwnadventure-a-unique-blend-of-mmorpg-and-cybersecurity-training-ed7003f1dc63?source=rss----7b722bfd1b8d---4)
+- [How North Korean Hackers Are Robbing Millions from Banks](https://infosecwriteups.com/how-north-korean-hackers-are-robbing-millions-from-banks-1487ffac83c9?source=rss----7b722bfd1b8d---4)
+- [MRS #2: Bypassing premium features by checking “premium validation” parameters &lpar;€€€&rpar;](https://infosecwriteups.com/mrs-2-bypassing-premium-features-by-checking-premium-validation-parameters-f2e211fad160?source=rss----7b722bfd1b8d---4)
+- [User Enumeration Techniques and Tactics In an Active Directory Pentesting Engagement.](https://infosecwriteups.com/user-enumeration-techniques-and-tactics-in-an-active-directory-pentesting-engagement-c634bf241017?source=rss----7b722bfd1b8d---4)
+- [LLM AI Security Checklist](https://infosecwriteups.com/llm-ai-security-checklist-06ce587d42fa?source=rss----7b722bfd1b8d---4)
+- [Mastering WordPress Penetration Testing: A Step-by-Step Guide](https://infosecwriteups.com/mastering-wordpress-penetration-testing-a-step-by-step-guide-d99a06487486?source=rss----7b722bfd1b8d---4)
 - [BBP: App Receives All Messages of Logged Out User](https://medium.com/@harryfyx/bbp-app-receives-all-messages-of-logged-out-user-fc2a5b5543ae?source=rss------bug_bounty_writeup-5)
 - [Account takeover via Password reset](https://medium.com/@Rahulkrishnan_R_Panicker/account-takeover-via-password-reset-c2658e1f58eb?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 5–14/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-5-14-03-2024-b8fe8dae8cb5?source=rss------bug_bounty_writeup-5)
@@ -1393,16 +1403,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Sumo Logic Looks to Hacker-Powered Pen Testing for Security and Compliance](https://www.hackerone.com/penetration-testing/sumo-logic-looks-hacker-powered-pen-testing-security-and-compliance)
 - [Zomato’s First Anniversary with Bug Bounties: Q&amp;A with Security Lead, Prateek Tiwari](https://www.hackerone.com/ethical-hacker/zomatos-first-anniversary-bug-bounties-qa-security-lead-prateek-tiwari)
 - [The Hacker-Powered Security Report 2018](https://www.hackerone.com/ethical-hacker/hacker-powered-security-report-2018)
-- [H1-702 CTF Winners Announced!](https://www.hackerone.com/ethical-hacker/h1-702-ctf-winners-announced)
-- [Lawfully Hacked](https://www.hackerone.com/ceo/lawfully-hacked)
-- [The Journey to 100% Responsive Programs](https://www.hackerone.com/ethical-hacker/journey-100-responsive-programs)
-- [Webinar: Learn How Hacker-Powered Pentests Give You More For Less](https://www.hackerone.com/penetration-testing/webinar-learn-how-hacker-powered-pentests-give-you-more-less)
-- [Morrison &amp; Foerster’s David Newman: How Corporate Counsel Should Approach Hacker-Powered Security](https://www.hackerone.com/ethical-hacker/morrison-foersters-david-newman-how-corporate-counsel-should-approach-hacker-powered)
-- [Hackers Descend on London for First Ever UK Live Hacking Event: H1-4420](https://www.hackerone.com/ethical-hacker/Hackers-Descend-London-First-Ever-UK-Live-Hacking-Event-H1-4420)
-- [Advanced triggers feature launches to further improve signal](https://www.hackerone.com/application-security/Advanced-triggers-feature-launches-further-improve-signal)
-- [Live-hacking Dropbox in Amsterdam for H1-3120](https://www.hackerone.com/ethical-hacker/live-hacking-dropbox-amsterdam-h1-3120)
-- [Jackpot! The h1-702 2018 CTF is here! Win a Trip to the Biggest Live-hacking Event of 2018](https://www.hackerone.com/ethical-hacker/jackpot-h1-702-2018-ctf-here-win-trip-biggest-live-hacking-event-2018)
-- [Hey Startups, Check Your GDPR Progress with this GDPR Checklist](https://www.hackerone.com/security-compliance/hey-startups-check-your-gdpr-progress-gdpr-checklist)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
