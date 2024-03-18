@@ -926,7 +926,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Challenge: Day 3/15–11/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-3-15-11-03-2024-38993610e657?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 2/15–10/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-10-03-2024-b946472d71c8?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 1/15–09/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-09-03-2024-f7b1824f2262?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Challenge: Day 0/15](https://wallotry.medium.com/bug-bounty-challenge-day-0-15-8e88c5b4cc6b?source=rss------bug_bounty_writeup-5)
 - [The White House Should Prioritize Cybersecurity in its Budget](https://www.hackerone.com/public-policy/white-house-budget-cybersecurity)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
@@ -1403,6 +1402,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Sumo Logic Looks to Hacker-Powered Pen Testing for Security and Compliance](https://www.hackerone.com/penetration-testing/sumo-logic-looks-hacker-powered-pen-testing-security-and-compliance)
 - [Zomato’s First Anniversary with Bug Bounties: Q&amp;A with Security Lead, Prateek Tiwari](https://www.hackerone.com/ethical-hacker/zomatos-first-anniversary-bug-bounties-qa-security-lead-prateek-tiwari)
 - [The Hacker-Powered Security Report 2018](https://www.hackerone.com/ethical-hacker/hacker-powered-security-report-2018)
+- [H1-702 CTF Winners Announced!](https://www.hackerone.com/ethical-hacker/h1-702-ctf-winners-announced)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
