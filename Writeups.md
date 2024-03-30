@@ -1,5 +1,6 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [HTB — Active](https://infosecwriteups.com/htb-active-d9fed1c4da72?source=rss----7b722bfd1b8d---4)
 - [This is how, in a matter of minutes, I located an information discloser.](https://interc3pt3r.medium.com/this-is-how-in-a-matter-of-minutes-i-located-an-information-discloser-4cdf2addf6b3?source=rss------bug_bounty_writeup-5)
 - [HTB Analytics Walkthrough](https://infosecwriteups.com/htb-analytics-walkthrough-fd256a170fae?source=rss----7b722bfd1b8d---4)
 - [Reverse Engineering | CTF Newbies | Part 1](https://infosecwriteups.com/reverse-engineering-ctf-newbies-part-1-cbd0aa47a90d?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@
 - [THM — Expose](https://infosecwriteups.com/thm-expose-4ceca4bcbd53?source=rss----7b722bfd1b8d---4)
 - [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://infosecwriteups.com/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-b643f97a7c67?source=rss----7b722bfd1b8d---4)
 - [HTB Cyber Apocalypse CTF 2024 — Reversing](https://infosecwriteups.com/htb-cyber-apocalypse-ctf-2024-reversing-d9eb85c59ca9?source=rss----7b722bfd1b8d---4)
-- [HTB Cyber Apocalypse CTF 2024 — Web](https://infosecwriteups.com/htb-cyber-apocalypse-ctf-2024-web-50b31126de50?source=rss----7b722bfd1b8d---4)
 - [HackerOne Company Values Matter: Respect All People](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-respect-all-people)
 - [Recap: Experts Break Down AI Red Teaming in a Live Q&amp;A](https://www.hackerone.com/generative-ai/recap-experts-break-down-ai-red-teaming-live-qa)
 - [Stargazing Risks: Exploring the Data Breach that Exposed NASA Employees’ PII](https://interc3pt3r.medium.com/stargazing-risks-exploring-the-data-breach-that-exposed-nasa-employees-pii-68692cf7a5e9?source=rss------bug_bounty_writeup-5)
