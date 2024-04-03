@@ -1,5 +1,6 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge: Day 9–03/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-9-03-04-2024-f7a6303bb674?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 8–02/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-8-02-04-2024-604382e079ac?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Update](https://wallotry.medium.com/bug-bounty-challenge-update-ebd1fa31426c?source=rss------bug_bounty_writeup-5)
 - [How I Was Able To Find My First VALID XSS](https://medium.com/@0xdartx/how-i-was-able-to-find-my-first-valid-xss-b1b8bd727b6a?source=rss------bug_bounty_writeup-5)
@@ -22,7 +23,6 @@
 - [How to write a Walkthrough](https://bevijaygupta.medium.com/how-to-write-a-walkthrough-23eee7f6777c?source=rss------bug_bounty_writeup-5)
 - [Unveiling all techniques to find IDOR’S in web applications](https://adipsharif.medium.com/unveiling-all-techniques-to-find-idors-in-web-applications-578d2b8aa28a?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Disclosure Policy Requirements for UK Smart Products](https://www.hackerone.com/public-policy/vdp-requirements-uk-smart-products)
-- [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://infosecwriteups.com/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-b643f97a7c67?source=rss------bug_bounty_writeup-5)
 - [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [Reversing The Trend: Support and Mediation Win as a Team](https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team)
