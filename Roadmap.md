@@ -903,9 +903,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
 - [Roadmap to ISO 27001](https://infosecwriteups.com/roadmap-to-iso-27001-8a94188e9ec5?source=rss----7b722bfd1b8d---4)
+- [Decoding the Characteristics of Modern Pentesting: Value](https://www.hackerone.com/penetration-testing/modern-pentesting-value)
+- [HackerOne Company Values Matter: Lead with Integrity](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-lead-integrity)
 - [Bug Hunting Methodology for Beginners](https://bevijaygupta.medium.com/bug-hunting-methodology-for-beginners-ce7ee1b11c25?source=rss------bug_bounty_writeup-5)
 - [Designing Micro-Segmentation for Enhanced Security with Jump Hosts](https://infosecwriteups.com/designing-micro-segmentation-for-enhanced-security-with-jump-hosts-1ee6b31f6d03?source=rss----7b722bfd1b8d---4)
+- [HackerOne’s Digital First Workplace](https://www.hackerone.com/culture-and-talent/hackerones-digital-first-workplace)
 - [Google Bug Hunters](https://bevijaygupta.medium.com/google-bug-hunters-673e2f5c2600?source=rss------bug_bounty_writeup-5)
 - [The Power of Open Source Intelligence | OSINT | CTF Newbies](https://infosecwriteups.com/the-power-of-open-source-intelligence-osint-ctf-newbies-b39db0421dd4?source=rss----7b722bfd1b8d---4)
 - [Decoding the Web: Exploring the Depths of Exploitation | CTF Newbies](https://infosecwriteups.com/decoding-the-web-exploring-the-depths-of-exploitation-ctf-newbies-233293a2a739?source=rss----7b722bfd1b8d---4)
@@ -995,8 +999,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
-- [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
+- [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -1094,8 +1098,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [5 Security Stages of the DevSecOps Pipeline](https://www.hackerone.com/application-security/5-security-stages-devsecops-pipeline)
 - [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [Hacker&#39;s Health: Adverse Effects of Doomscrolling](https://www.hackerone.com/hackers-health-adverse-effects-doomscrolling)
-- [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
 - [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
+- [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
 - [How Bug Bounty Uncovered A 5-Year-Old Vulnerability In Hours](https://www.hackerone.com/ethical-hacker/how-bug-bounty-uncovered-5-year-old-vulnerability-hours)
 - [Live Hacking Event Invitations - 2022 Guide](https://www.hackerone.com/live-hacking-event-invitations-2022-guide)
 - [CISOs: Do You Know the Security Risks of Your Organization&#39;s Next M&amp;A?](https://www.hackerone.com/vulnerability-management/cisos-do-you-know-security-risks-your-organizations-next-ma)
@@ -1399,10 +1403,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Streamline Every Aspect of Your Responsible Disclosure Policy with HackerOne Response](https://www.hackerone.com/vulnerability-management/streamline-every-aspect-your-responsible-disclosure-policy-hackerone)
 - [Top Firewall Misconfigurations that Lead to Easy Exploitations by Attackers](https://www.hackerone.com/vulnerability-management/Top-Firewall-Misconfigurations-that-Lead-to-Easy-Exploitations)
 - [The AWS Shared Responsibility Model: 3 Areas of Improvement to Make Today, Part 1](https://www.hackerone.com/application-security/aws-shared-responsibility-model-3-areas-improvement-make-today-part-1)
-- [Introducing the Hacker101 CTF](https://www.hackerone.com/ethical-hacker/introducing-hacker101-ctf)
-- [Highlights of New York’s Cybersecurity Regulation 23 NYCRR Part 500](https://www.hackerone.com/security-compliance/highlights-new-yorks-cybersecurity-regulation-23-nycrr-part-500)
-- [H1-702 2018 makes history with over $500K in bounties paid!](https://www.hackerone.com/ethical-hacker/h1-702-2018-makes-history-over-500k-bounties-paid)
-- [What is a Responsible Disclosure Policy and Why You Need One](https://www.hackerone.com/vulnerability-management/what-responsible-disclosure-policy-and-why-you-need-one)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
