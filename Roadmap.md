@@ -913,6 +913,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CVE-2024–3400: A Critical Vulnerability in PAN-OS Firewalls](https://infosecwriteups.com/cve-2024-3400-a-critical-vulnerability-in-pan-os-firewalls-a7f8c66a10d2?source=rss----7b722bfd1b8d---4)
 - [If You Want To Be A CISO Then Read This First …](https://infosecwriteups.com/if-you-want-to-be-a-ciso-then-read-this-first-036f07ec8d05?source=rss----7b722bfd1b8d---4)
 - [Turning Wayback Machine Into GOLD MINING MACHINE](https://infosecwriteups.com/turning-wayback-machine-into-gold-mining-machine-dcca31ee4114?source=rss----7b722bfd1b8d---4)
+- [Pre-Pentest Checklist Part 2: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part2)
+- [Making Sense of the Sisense News](https://www.hackerone.com/vulnerability-management/sisense-breach)
 - [CSRF &lpar;1/3&rpar;](https://medium.com/@karimelsayed0x1/csrf-1-3-22050bf9c92c?source=rss------bug_bounty_writeup-5)
 - [A unique SSRF hunt &lpar; Invite user functionality vulnerable to blind SSRF attack &rpar;](https://medium.com/@abhishek8602314652/a-unique-ssrf-hunt-invite-user-functionality-vulnerable-to-blind-ssrf-attack-c6804b2b398b?source=rss------bug_bounty_writeup-5)
 - [HackerOne Company Values Matter: Default to Disclosure](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-default-disclosure)
@@ -921,7 +923,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Broken Access Control &lpar;IDOR&rpar; on Forgot Password Could Lead to Attacker Change Password for Every…](https://medium.com/@blackarazi/broken-access-control-idor-on-forgot-password-could-lead-to-attacker-change-password-for-every-e1b18e075b5a?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 16–11/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-16-11-04-2024-effc5c820319?source=rss------bug_bounty_writeup-5)
 - [How a Race Condition Vulnerability Could Cast Multiple Votes](https://www.hackerone.com/vulnerability-management/sherrets-race-condition)
-- [A guide to get the most out of your One-on-Ones](https://www.hackerone.com/engineering-blog/guide-get-most-out-your-one-ones)
 - [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
 - [Decoding the Characteristics of Modern Pentesting: Value](https://www.hackerone.com/penetration-testing/modern-pentesting-value)
 - [HackerOne Company Values Matter: Lead with Integrity](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-lead-integrity)
@@ -930,7 +931,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Google Bug Hunters](https://bevijaygupta.medium.com/google-bug-hunters-673e2f5c2600?source=rss------bug_bounty_writeup-5)
 - [Host Header Manipulation Leading to Unauthorized Access to Apple’s Internal Slack bot &lpar;Bug Bounty&rpar;](https://amineaboud.medium.com/unauthorized-access-to-an-internal-app-used-by-apple-to-protect-confidential-information-shared-on-c8835a80079b?source=rss------bug_bounty_writeup-5)
 - [UUIDs Unmasked: Exploiting IDOR for User Data Access](https://medium.com/@cybersolution2172/uuids-unmasked-exploiting-idor-for-user-data-access-b199e3b08563?source=rss------bug_bounty_writeup-5)
-- [The Importance of Credential Rotations: Best Practices for Security and Data Protection](https://www.hackerone.com/vulnerability-management/credentials-rotation)
+- [The Importance of Credential Rotations: Best Practices for Security and Data Protection](https://www.hackerone.com/engineering/credentials-rotation)
 - [Ten Practical Tips For High-Value Pentest Engagements](https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements)
 - [Pre-Pentest Checklist Part 1: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part1)
 - [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
@@ -1402,7 +1403,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Say Yes To Cyber Help](https://www.hackerone.com/company-news/say-yes-cyber-help)
 - [The U.S. Marine Corps Resolves Nearly 150 Vulnerabilities Thanks to Hackers](https://www.hackerone.com/vulnerability-management/us-marine-corps-resolves-nearly-150-vulnerabilities-thanks-hackers)
 - [The AWS Shared Responsibility Model: 3 Areas of Improvement to Make Today Part 3: Logging, Monitoring, and Alerting in AWS](https://www.hackerone.com/application-security/AWS-Shared-Responsibility-Model-3-Areas-Improvement-Make-Today-Part-3)
-- [How Hacktivity Can Save Your Company: Experts Weigh In](https://www.hackerone.com/ethical-hacker/How-Hacktivity-Can-Save-Your-Company-Experts-Weigh-In)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
