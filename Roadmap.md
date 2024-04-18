@@ -903,6 +903,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Code Reviews, Small Moments, Big Impacts](https://www.hackerone.com/engineering/code-review-impact)
+- [AI Interaction Hacks: Tips and Tricks for Crafting Effective Prompts](https://www.hackerone.com/engineering/ai-prompting-tips)
+- [Getting Started on Personal Development](https://www.hackerone.com/engineering/personal-development)
 - [Tutorial on x86 Architecture: From Basics to Cybersecurity Links](https://infosecwriteups.com/tutorial-on-x86-architecture-from-basics-to-cybersecurity-links-c01d956d4d85?source=rss----7b722bfd1b8d---4)
 - [NTFS Filesystem: Alternate Data Stream &lpar;ADS&rpar;](https://infosecwriteups.com/ntfs-filesystem-alternate-data-stream-ads-c0e4a2402563?source=rss----7b722bfd1b8d---4)
 - [Creating Payloads with ScareCrow to Mimic Reputable Sources and Bypass Anti-Virus](https://infosecwriteups.com/creating-payloads-with-scarecrow-to-mimic-reputable-sources-and-bypass-anti-virus-01196cac741e?source=rss----7b722bfd1b8d---4)
@@ -1400,9 +1403,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Financial Services: Tips for Bug Bounty Success](https://www.hackerone.com/application-security/financial-services-tips-bug-bounty-success)
 - [The Best is Yet To Come: DOD Awards New Hack the Pentagon Contract to HackerOne](https://www.hackerone.com/ethical-hacker/best-yet-come-dod-awards-new-hack-pentagon-contract-hackerone)
 - [The Paranoids at Oath Take Bug Bounties to Argentina: h1-5411 Recap](https://www.hackerone.com/vulnerability-management/paranoids-oath-take-bug-bounties-argentina-h1-5411-recap)
-- [Say Yes To Cyber Help](https://www.hackerone.com/company-news/say-yes-cyber-help)
-- [The U.S. Marine Corps Resolves Nearly 150 Vulnerabilities Thanks to Hackers](https://www.hackerone.com/vulnerability-management/us-marine-corps-resolves-nearly-150-vulnerabilities-thanks-hackers)
-- [The AWS Shared Responsibility Model: 3 Areas of Improvement to Make Today Part 3: Logging, Monitoring, and Alerting in AWS](https://www.hackerone.com/application-security/AWS-Shared-Responsibility-Model-3-Areas-Improvement-Make-Today-Part-3)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
