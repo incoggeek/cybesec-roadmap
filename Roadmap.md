@@ -903,6 +903,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I found my First Valid bug](https://medium.com/@tanyago/how-i-found-my-first-valid-bug-2a9c87ce7a91?source=rss------bug_bounty_writeup-5)
 - [Mastering Shodan Search Engine](https://infosecwriteups.com/mastering-shodan-search-engine-8c80b80dae09?source=rss----7b722bfd1b8d---4)
 - [Email Verification Bypass via Remember Me](https://infosecwriteups.com/email-verification-bypass-via-remember-me-c6d34e6060e9?source=rss----7b722bfd1b8d---4)
 - [Exploiting Symlinks: A Deep Dive into CVE-2024–28185 and CVE-2024–28189 of Judge0 Sandboxes](https://infosecwriteups.com/exploiting-symlinks-a-deep-dive-into-cve-2024-28185-and-cve-2024-28189-of-judge0-sandboxes-36bd471cfc4d?source=rss----7b722bfd1b8d---4)
@@ -916,7 +917,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 3–22/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-3-22-04-2024-51adde52bf60?source=rss------bug_bounty_writeup-5)
 - [Beware of Method Swapping: Unveiling a Potential Security Vulnerability](https://medium.com/@hohky_/beware-of-method-swapping-unveiling-a-potential-security-vulnerability-cc66c867e3b2?source=rss------bug_bounty_writeup-5)
 - [How to avoid burnouts in bugbounty?](https://medium.com/@mr_prey3r/how-to-avoid-burnouts-in-bugbounty-4d97e14f1ff1?source=rss------bug_bounty_writeup-5)
-- [Capital One Teams Up With Top-Tier Ethical Hackers at H1-305](https://www.hackerone.com/lhe/capital-one-h1-305)
 - [How many months took you to find your first bug ?! Let s see](https://medium.com/@aiz3nsk/how-many-months-took-you-to-find-your-first-bug-let-s-see-c48e4cce0c29?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 2–21/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-21-04-2024-f832f23f0464?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 1–20/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-20-04-2024-2db4a6c86cc2?source=rss------bug_bounty_writeup-5)
@@ -929,7 +929,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Pre-Pentest Checklist Part 2: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part2)
 - [Making Sense of the Sisense News](https://www.hackerone.com/vulnerability-management/sisense-breach)
 - [CSRF &lpar;1/3&rpar;](https://medium.com/@karimelsayed0x1/csrf-1-3-22050bf9c92c?source=rss------bug_bounty_writeup-5)
-- [A unique SSRF hunt &lpar; Invite user functionality vulnerable to blind SSRF attack &rpar;](https://medium.com/@abhishek8602314652/a-unique-ssrf-hunt-invite-user-functionality-vulnerable-to-blind-ssrf-attack-c6804b2b398b?source=rss------bug_bounty_writeup-5)
 - [HackerOne Company Values Matter: Default to Disclosure](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-default-disclosure)
 - [How a Race Condition Vulnerability Could Cast Multiple Votes](https://www.hackerone.com/vulnerability-management/sherrets-race-condition)
 - [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
@@ -993,8 +992,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
 - [What Do New Cybersecurity Rules Mean For CISOs?](https://www.hackerone.com/security-compliance/new-cybersecurity-rules-for-cisos)
 - [About the HackerOne Engineering Mentoring Program](https://www.hackerone.com/culture-and-talent/engineer-mentoring)
-- [Women in Sales: The Importance of a Diverse Team](https://www.hackerone.com/culture-and-talent/women-in-sales)
 - [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
+- [Women in Sales: The Importance of a Diverse Team](https://www.hackerone.com/culture-and-talent/women-in-sales)
 - [Why This Moment In Cybersecurity Needs Hackers To Protect All Software](https://www.hackerone.com/ceo/why-moment-cybersecurity-needs-hackers-protect-all-software)
 - [Ethical Hacking: Unveiling the Power of Hacking for Good in Cybersecurity](https://www.hackerone.com/thought-leadership/aws-podcast-ethical-hacking-cybersecurity)
 - [The Hacker Perspective on Generative AI and Cybersecurity](https://www.hackerone.com/thought-leadership/generative-ai-cybersecurity-hacker-perspective)
@@ -1006,8 +1005,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne and the OWASP Top 10 for LLM: A Powerful Alliance for Secure AI](https://www.hackerone.com/vulnerability-management/owasp-llm-vulnerabilities)
 - [Company Update](https://www.hackerone.com/company-news/company-update)
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
-- [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
+- [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
@@ -1403,6 +1402,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Discovering programs is easier than ever with the new and improved Program Directory](https://www.hackerone.com/vulnerability-management/Discovering-programs-easier-ever-new-and-improved-Program-Directory)
 - [What To Do When You&#39;re Stuck Hacking](https://www.hackerone.com/ethical-hacker/What-To-Do-When-You-Are-Stuck-Hacking)
 - [Financial Services: Tips for Bug Bounty Success](https://www.hackerone.com/application-security/financial-services-tips-bug-bounty-success)
+- [The Best is Yet To Come: DOD Awards New Hack the Pentagon Contract to HackerOne](https://www.hackerone.com/ethical-hacker/best-yet-come-dod-awards-new-hack-pentagon-contract-hackerone)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
