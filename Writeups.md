@@ -1,5 +1,6 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [Human-Powered Security: The Value of Ethical Hackers &amp; Bug Bounty](https://www.hackerone.com/vulnerability-management/human-powered-security)
 - [How I found my First Valid bug](https://medium.com/@tanyago/how-i-found-my-first-valid-bug-2a9c87ce7a91?source=rss------bug_bounty_writeup-5)
 - [Mastering Shodan Search Engine](https://infosecwriteups.com/mastering-shodan-search-engine-8c80b80dae09?source=rss----7b722bfd1b8d---4)
 - [Email Verification Bypass via Remember Me](https://infosecwriteups.com/email-verification-bypass-via-remember-me-c6d34e6060e9?source=rss----7b722bfd1b8d---4)
@@ -499,5 +500,4 @@
 - [Security@ 2018: Sumo Logic’s CSO On Transparency and Using Hacker-Powered Pen Tests for Better Security and Complete Compliance](https://www.hackerone.com/penetration-testing/security-2018-sumo-logics-cso-transparency-and-using-hacker-powered-pen-tests)
 - [Discovering programs is easier than ever with the new and improved Program Directory](https://www.hackerone.com/vulnerability-management/Discovering-programs-easier-ever-new-and-improved-Program-Directory)
 - [What To Do When You&#39;re Stuck Hacking](https://www.hackerone.com/ethical-hacker/What-To-Do-When-You-Are-Stuck-Hacking)
-- [Financial Services: Tips for Bug Bounty Success](https://www.hackerone.com/application-security/financial-services-tips-bug-bounty-success)
 <!-- WRITEUPS:END -->
