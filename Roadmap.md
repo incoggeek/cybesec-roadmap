@@ -903,6 +903,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Hack My Career: Meet Frances H](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-frances-h)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 4–24/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-4-24-04-2024-ad138e4d1357?source=rss------bug_bounty_writeup-5)
 - [SOC 2 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/soc-2-pentesting)
 - [Hack Stories: Hacking Hackers EP:3](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-3-11b1f0e002e8?source=rss----7b722bfd1b8d---4)
@@ -996,8 +997,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
 - [What Do New Cybersecurity Rules Mean For CISOs?](https://www.hackerone.com/security-compliance/new-cybersecurity-rules-for-cisos)
 - [About the HackerOne Engineering Mentoring Program](https://www.hackerone.com/culture-and-talent/engineer-mentoring)
-- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Women in Sales: The Importance of a Diverse Team](https://www.hackerone.com/culture-and-talent/women-in-sales)
+- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Why This Moment In Cybersecurity Needs Hackers To Protect All Software](https://www.hackerone.com/ceo/why-moment-cybersecurity-needs-hackers-protect-all-software)
 - [Ethical Hacking: Unveiling the Power of Hacking for Good in Cybersecurity](https://www.hackerone.com/thought-leadership/aws-podcast-ethical-hacking-cybersecurity)
 - [The Hacker Perspective on Generative AI and Cybersecurity](https://www.hackerone.com/thought-leadership/generative-ai-cybersecurity-hacker-perspective)
@@ -1009,10 +1010,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne and the OWASP Top 10 for LLM: A Powerful Alliance for Secure AI](https://www.hackerone.com/vulnerability-management/owasp-llm-vulnerabilities)
 - [Company Update](https://www.hackerone.com/company-news/company-update)
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
-- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
-- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
+- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
+- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -1110,8 +1111,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [5 Security Stages of the DevSecOps Pipeline](https://www.hackerone.com/application-security/5-security-stages-devsecops-pipeline)
 - [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [Hacker&#39;s Health: Adverse Effects of Doomscrolling](https://www.hackerone.com/hackers-health-adverse-effects-doomscrolling)
-- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
+- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [How Bug Bounty Uncovered A 5-Year-Old Vulnerability In Hours](https://www.hackerone.com/ethical-hacker/how-bug-bounty-uncovered-5-year-old-vulnerability-hours)
 - [Live Hacking Event Invitations - 2022 Guide](https://www.hackerone.com/live-hacking-event-invitations-2022-guide)
 - [CISOs: Do You Know the Security Risks of Your Organization&#39;s Next M&amp;A?](https://www.hackerone.com/vulnerability-management/cisos-do-you-know-security-risks-your-organizations-next-ma)
@@ -1163,8 +1164,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Vulnerability Disclosure | What’s the Responsible Solution?](https://www.hackerone.com/vulnerability-disclosure/vulnerability-disclosure-whats-responsible-solution)
 - [Jedox’s Journey with HackerOne: A Q&amp;A with CTO, Vladislav Maličević](https://www.hackerone.com/best-practices/jedoxs-journey-hackerone-qa-cto-vladislav-malicevic)
 - [DevSecOps: Bridging the Gap Between Security and Development](https://www.hackerone.com/security-event/devsecops-bridging-gap-between-security-and-development)
-- [How Trustpilot Manages Risk by Working with Ethical Hackers](https://www.hackerone.com/bounty/how-trustpilot-manages-risk-working-ethical-hackers)
 - [What’s a Vulnerability Disclosure Program &amp; Do You Need One?](https://www.hackerone.com/vulnerability-disclosure/whats-vulnerability-disclosure-program-do-you-need-one)
+- [How Trustpilot Manages Risk by Working with Ethical Hackers](https://www.hackerone.com/bounty/how-trustpilot-manages-risk-working-ethical-hackers)
 - [Bug Bounty Benefits | Why You Need a Bug Bounty Program](https://www.hackerone.com/bounty/bug-bounty-benefits-why-you-need-bug-bounty-program)
 - [Navigating a Safe, Successful Return to Office: 5 Tips for Security Leaders](https://www.hackerone.com/company-news/navigating-safe-successful-return-office-5-tips-security-leaders)
 - [Vulnerability Remediation | A Step-by-Step Guide](https://www.hackerone.com/vulnerability-remediation-step-step-guide)
@@ -1269,8 +1270,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [There is no room for racism or inequality here.](https://www.hackerone.com/ceo/there-no-room-racism-or-inequality-here)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [The Journey in Data: HackerOne Hits 100 Million Dollars in Bounties](https://www.hackerone.com/ethical-hacker/journey-data-hackerone-hits-100-million-dollars-bounties)
-- [Thanks For Being Part Of The Journey to $100 Million in Bounties!](https://www.hackerone.com/ethical-hacker/thanks-being-part-journey-100-million-bounties)
 - [$100 Million Paid - One Billion in Sight for Hackers](https://www.hackerone.com/ceo/100-million-paid-one-billion-sight-hackers)
+- [Thanks For Being Part Of The Journey to $100 Million in Bounties!](https://www.hackerone.com/ethical-hacker/thanks-being-part-journey-100-million-bounties)
 - [10 Ways to Hack Your “New Normal” Workweek](https://www.hackerone.com/company-news/10-ways-hack-your-new-normal-workweek)
 - [How Federal Agencies Use Vulnerability Disclosure Policies to Level Up Security](https://www.hackerone.com/vulnerability-management/how-federal-agencies-use-vulnerability-disclosure-policies-level-security)
 - [Security by the People: Announcing HackerOne’s FedRAMP Authorization](https://www.hackerone.com/vulnerability-management/security-people-announcing-hackerones-fedramp-authorization)
@@ -1402,7 +1403,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Shopify Awards $116,000 to Hackers in Canada: h1-514 Recap](https://www.hackerone.com/ethical-hacker/shopify-awards-116000-hackers-canada-h1-514-recap)
 - [Integrate HackerOne directly into your website with Embedded Submissions](https://www.hackerone.com/vulnerability-management/integrate-hackerone-directly-your-website-embedded-submissions)
 - [Security@ 2018: Oath, DoD Highlight Value in Bringing Bug Bounties to Life](https://www.hackerone.com/application-security/security-2018-oath-dod-highlight-value-bringing-bug-bounties-life)
-- [Security@ 2018: Sumo Logic’s CSO On Transparency and Using Hacker-Powered Pen Tests for Better Security and Complete Compliance](https://www.hackerone.com/penetration-testing/security-2018-sumo-logics-cso-transparency-and-using-hacker-powered-pen-tests)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
