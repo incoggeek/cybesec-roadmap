@@ -905,6 +905,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 <!-- WRITEUPS:START -->
 - [Private Interact.sh server setup with a web dashboard](https://infosecwriteups.com/private-interact-sh-server-setup-with-a-web-dashboard-6b0320645536?source=rss----7b722bfd1b8d---4)
 - [I found a simple but rare misconfiguration and got $200 on a hackerone program](https://harish45.medium.com/i-found-a-simple-but-rare-misconfiguration-and-got-200-on-a-hackerone-program-5863b6c51538?source=rss------bug_bounty_writeup-5)
+- [Accelerate Find-to-Fix Cycles With Hai](https://www.hackerone.com/ai/accelerate-find-to-fix-hai)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 5–25/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-5-25-04-2024-a8d33630fe73?source=rss------bug_bounty_writeup-5)
 - [Understanding 403 Bypass: A Critical Vulnerability in Web Application Security](https://infosecwriteups.com/understanding-403-bypass-a-critical-vulnerability-in-web-application-security-2b9f0318f3a4?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Tools](https://medium.com/@malishakali2002/bug-bounty-tools-bedcf7b94f8d?source=rss------bug_bounty_writeup-5)
@@ -1402,7 +1403,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hacker101 CTF++: Find flags, get private bug bounty program invitations](https://www.hackerone.com/application-security/hacker101-ctf-find-flags-get-private-bug-bounty-program-invitations)
 - [Shopify Awards $116,000 to Hackers in Canada: h1-514 Recap](https://www.hackerone.com/ethical-hacker/shopify-awards-116000-hackers-canada-h1-514-recap)
 - [Integrate HackerOne directly into your website with Embedded Submissions](https://www.hackerone.com/vulnerability-management/integrate-hackerone-directly-your-website-embedded-submissions)
-- [Security@ 2018: Oath, DoD Highlight Value in Bringing Bug Bounties to Life](https://www.hackerone.com/application-security/security-2018-oath-dod-highlight-value-bringing-bug-bounties-life)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
