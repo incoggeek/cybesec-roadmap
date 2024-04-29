@@ -903,8 +903,14 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Think You’re Talking to Real Customer Service? Think Again: Unveiling the Customer Service Scam](https://infosecwriteups.com/think-youre-talking-to-real-customer-service-think-again-unveiling-the-customer-service-scam-f212919a79fb?source=rss----7b722bfd1b8d---4)
+- [Improve Your Security Skills with OWASP Juice Shop!](https://infosecwriteups.com/improve-your-security-skills-with-owasp-juice-shop-78f36797ef1c?source=rss----7b722bfd1b8d---4)
+- [Is That Really Your Bank Calling? Unraveling the Web of Vishing Scams!](https://infosecwriteups.com/is-that-really-your-bank-calling-unraveling-the-web-of-vishing-scams-d52439b5fd15?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 8–28/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-8-28-04-2024-67bac40e6a35?source=rss------bug_bounty_writeup-5)
 - [How to choose less competitive Bug Bounty Programs &lpar; No VDPs&rpar;](https://medium.com/@h3mantsaini/how-to-choose-less-competitive-bug-bounty-programs-no-vdps-0acc3ddfe9b8?source=rss------bug_bounty_writeup-5)
+- [Lessons Learned from Over a Decade of On-Call](https://www.hackerone.com/engineering/on-call-lessons)
+- [Kubernetes — A Journey Has Just Begun](https://www.hackerone.com/engineering/kubernetes)
+- [On Writing Well as a Software Engineer](https://www.hackerone.com/engineering/writing-tips-software-engineer)
 - [Private Interact.sh server setup with a web dashboard](https://infosecwriteups.com/private-interact-sh-server-setup-with-a-web-dashboard-6b0320645536?source=rss----7b722bfd1b8d---4)
 - [I found a simple but rare misconfiguration and got $200 on a hackerone program](https://harish45.medium.com/i-found-a-simple-but-rare-misconfiguration-and-got-200-on-a-hackerone-program-5863b6c51538?source=rss------bug_bounty_writeup-5)
 - [Accelerate Find-to-Fix Cycles With Hai](https://www.hackerone.com/ai/accelerate-find-to-fix-hai)
@@ -921,9 +927,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Email Verification Bypass via Remember Me](https://infosecwriteups.com/email-verification-bypass-via-remember-me-c6d34e6060e9?source=rss----7b722bfd1b8d---4)
 - [Exploiting Symlinks: A Deep Dive into CVE-2024–28185 and CVE-2024–28189 of Judge0 Sandboxes](https://infosecwriteups.com/exploiting-symlinks-a-deep-dive-into-cve-2024-28185-and-cve-2024-28189-of-judge0-sandboxes-36bd471cfc4d?source=rss----7b722bfd1b8d---4)
 - [Typo Trouble: Exploring the Telegram Python RCE Vulnerability](https://infosecwriteups.com/typo-trouble-exploring-the-telegram-python-rce-vulnerability-b7bc8a12c9ba?source=rss----7b722bfd1b8d---4)
-- [Active DNS Recon using AXIOM](https://infosecwriteups.com/active-dns-recon-using-axiom-a5239b95f5ad?source=rss----7b722bfd1b8d---4)
-- [Information Disclosure: Story of 500€ + 400$ Bounty](https://infosecwriteups.com/information-disclosure-story-of-500-400-bounty-97d3b343f9ad?source=rss----7b722bfd1b8d---4)
-- [Demystifying Password Cracking: Attacks and Defence Strategies](https://infosecwriteups.com/demystifying-password-cracking-attacks-and-defence-strategies-1304bda73249?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 3–22/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-3-22-04-2024-51adde52bf60?source=rss------bug_bounty_writeup-5)
 - [Beware of Method Swapping: Unveiling a Potential Security Vulnerability](https://infosecwriteups.com/beware-of-method-swapping-unveiling-a-potential-security-vulnerability-cc66c867e3b2?source=rss------bug_bounty_writeup-5)
 - [How to avoid burnouts in bugbounty?](https://medium.com/@mr_prey3r/how-to-avoid-burnouts-in-bugbounty-4d97e14f1ff1?source=rss------bug_bounty_writeup-5)
@@ -1013,8 +1016,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
-- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
+- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -1112,8 +1115,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [5 Security Stages of the DevSecOps Pipeline](https://www.hackerone.com/application-security/5-security-stages-devsecops-pipeline)
 - [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [Hacker&#39;s Health: Adverse Effects of Doomscrolling](https://www.hackerone.com/hackers-health-adverse-effects-doomscrolling)
-- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
+- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [How Bug Bounty Uncovered A 5-Year-Old Vulnerability In Hours](https://www.hackerone.com/ethical-hacker/how-bug-bounty-uncovered-5-year-old-vulnerability-hours)
 - [Live Hacking Event Invitations - 2022 Guide](https://www.hackerone.com/live-hacking-event-invitations-2022-guide)
 - [CISOs: Do You Know the Security Risks of Your Organization&#39;s Next M&amp;A?](https://www.hackerone.com/vulnerability-management/cisos-do-you-know-security-risks-your-organizations-next-ma)
@@ -1400,9 +1403,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Easy and secure Credential Management](https://www.hackerone.com/security-compliance/easy-and-secure-credential-management)
 - [Test your hacking skills on real-world simulated bugs](https://www.hackerone.com/ethical-hacker/test-your-hacking-skills-real-world-simulated-bugs)
 - [Introducing Hacker Dashboard: Your personalized HackerOne overview](https://www.hackerone.com/ethical-hacker/introducing-hacker-dashboard-your-personalized-hackerone-overview)
-- [Hacker101 CTF++: Find flags, get private bug bounty program invitations](https://www.hackerone.com/application-security/hacker101-ctf-find-flags-get-private-bug-bounty-program-invitations)
-- [Shopify Awards $116,000 to Hackers in Canada: h1-514 Recap](https://www.hackerone.com/ethical-hacker/shopify-awards-116000-hackers-canada-h1-514-recap)
-- [Integrate HackerOne directly into your website with Embedded Submissions](https://www.hackerone.com/vulnerability-management/integrate-hackerone-directly-your-website-embedded-submissions)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
