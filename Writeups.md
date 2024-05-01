@@ -1,5 +1,6 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [HackerOne’s Next Stage of Growth](https://www.hackerone.com/hackerones-next-stage-growth)
 - [My First Verified Bug Bounty: Unmasking Flaws in University Web Apps](https://medium.com/@rafisyafrinaldi17/my-first-verified-bug-bounty-unmasking-flaws-in-university-web-apps-6c6b5fb1e8da?source=rss------bug_bounty_writeup-5)
 - [How I Bypass CSP that allow a iframe injection in a chat bot + HTML injection on emails](https://medium.com/@jeetpal2007/how-i-bypass-csp-that-allow-a-iframe-injection-in-a-chat-bot-html-injection-on-emails-9d588aeef4c3?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: CONCLUSION](https://wallotry.medium.com/bug-bounty-challenge-final-day-10-30-04-2024-75a6f93d2687?source=rss------bug_bounty_writeup-5)
@@ -101,7 +102,7 @@
 - [About the HackerOne Engineering Mentoring Program](https://www.hackerone.com/culture-and-talent/engineer-mentoring)
 - [Women in Sales: The Importance of a Diverse Team](https://www.hackerone.com/culture-and-talent/women-in-sales)
 - [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
-- [Why This Moment In Cybersecurity Needs Hackers To Protect All Software](https://www.hackerone.com/ceo/why-moment-cybersecurity-needs-hackers-protect-all-software)
+- [Why This Moment In Cybersecurity Needs Hackers To Protect All Software](https://www.hackerone.com/blogs-hackerones-ceo/why-moment-cybersecurity-needs-hackers-protect-all-software)
 - [Ethical Hacking: Unveiling the Power of Hacking for Good in Cybersecurity](https://www.hackerone.com/thought-leadership/aws-podcast-ethical-hacking-cybersecurity)
 - [The Hacker Perspective on Generative AI and Cybersecurity](https://www.hackerone.com/thought-leadership/generative-ai-cybersecurity-hacker-perspective)
 - [You&#39;re Doing Pentesting Wrong](https://www.hackerone.com/penetration-testing/youre-doing-pentesting-wrong)
@@ -114,8 +115,8 @@
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
-- [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
+- [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -213,8 +214,8 @@
 - [5 Security Stages of the DevSecOps Pipeline](https://www.hackerone.com/application-security/5-security-stages-devsecops-pipeline)
 - [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [Hacker&#39;s Health: Adverse Effects of Doomscrolling](https://www.hackerone.com/hackers-health-adverse-effects-doomscrolling)
-- [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
 - [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
+- [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
 - [How Bug Bounty Uncovered A 5-Year-Old Vulnerability In Hours](https://www.hackerone.com/ethical-hacker/how-bug-bounty-uncovered-5-year-old-vulnerability-hours)
 - [Live Hacking Event Invitations - 2022 Guide](https://www.hackerone.com/live-hacking-event-invitations-2022-guide)
 - [CISOs: Do You Know the Security Risks of Your Organization&#39;s Next M&amp;A?](https://www.hackerone.com/vulnerability-management/cisos-do-you-know-security-risks-your-organizations-next-ma)
@@ -499,5 +500,4 @@
 - [Hacktivity Disclosure for Private Programs](https://www.hackerone.com/ethical-hacker/hacktivity-disclosure-private-programs)
 - [Q&amp;A with Flickr’s Senior Engineering Manager Alex Seville](https://www.hackerone.com/application-security/qa-flickrs-senior-engineering-manager-alex-seville)
 - [Easy and secure Credential Management](https://www.hackerone.com/security-compliance/easy-and-secure-credential-management)
-- [Test your hacking skills on real-world simulated bugs](https://www.hackerone.com/ethical-hacker/test-your-hacking-skills-real-world-simulated-bugs)
 <!-- WRITEUPS:END -->
