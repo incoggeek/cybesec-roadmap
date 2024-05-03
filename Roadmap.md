@@ -910,6 +910,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HackerOne’s Spring Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-spring-day-service)
 - [CREST and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/crest-pentesting)
 - [HackerOne and Zoom Select EverythingALS as the Latest Charity For #Hackforgood](https://www.hackerone.com/customer-stories/zoom-als-hackforgood)
 - [AWS S3 Bucket Misconfiguration Exposes PII and Documents of Job Seekers](https://infosecwriteups.com/aws-s3-bucket-misconfiguration-exposes-pii-and-documents-of-job-seekers-7b1332b0ecf1?source=rss----7b722bfd1b8d---4)
@@ -1409,7 +1410,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Easy and secure Credential Management](https://www.hackerone.com/security-compliance/easy-and-secure-credential-management)
 - [Test your hacking skills on real-world simulated bugs](https://www.hackerone.com/ethical-hacker/test-your-hacking-skills-real-world-simulated-bugs)
 - [Introducing Hacker Dashboard: Your personalized HackerOne overview](https://www.hackerone.com/ethical-hacker/introducing-hacker-dashboard-your-personalized-hackerone-overview)
-- [Hacker101 CTF++: Find flags, get private bug bounty program invitations](https://www.hackerone.com/application-security/hacker101-ctf-find-flags-get-private-bug-bounty-program-invitations)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
