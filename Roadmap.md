@@ -910,6 +910,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [BugBountyTraining Lab: FastFoodHackings Part 1](https://hoppp3r.medium.com/bugbountytraining-lab-fastfoodhackings-part-1-39a7b06fdef9?source=rss------bug_bounty_writeup-5)
 - [HackerOne’s Spring Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-spring-day-service)
 - [CREST and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/crest-pentesting)
 - [HackerOne and Zoom Select EverythingALS as the Latest Charity For #Hackforgood](https://www.hackerone.com/customer-stories/zoom-als-hackforgood)
@@ -1409,7 +1410,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Q&amp;A with Flickr’s Senior Engineering Manager Alex Seville](https://www.hackerone.com/application-security/qa-flickrs-senior-engineering-manager-alex-seville)
 - [Easy and secure Credential Management](https://www.hackerone.com/security-compliance/easy-and-secure-credential-management)
 - [Test your hacking skills on real-world simulated bugs](https://www.hackerone.com/ethical-hacker/test-your-hacking-skills-real-world-simulated-bugs)
-- [Introducing Hacker Dashboard: Your personalized HackerOne overview](https://www.hackerone.com/ethical-hacker/introducing-hacker-dashboard-your-personalized-hackerone-overview)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
