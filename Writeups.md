@@ -2,6 +2,7 @@
 <!-- WRITEUPS:START -->
 - [XSS | Here’s how I got my first bounty](https://medium.com/@sM0ky4/xss-heres-how-i-got-my-first-bounty-4f64785fe6f8?source=rss------bug_bounty_writeup-5)
 - [How I Hacked Indian Government Sub-Registrar Database](https://medium.com/@maxcyber882/how-i-hacked-indian-government-sub-registrar-database-18a4f4670f07?source=rss------bug_bounty_writeup-5)
+- [ISO 27001 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/iso-27001-pentesting)
 - [BugBountyTraining Lab: FastFoodHackings Part 2](https://hoppp3r.medium.com/bugbountytraining-lab-fastfoodhackings-part-2-313e9e6ffbd4?source=rss------bug_bounty_writeup-5)
 - [Setting Up an Environment for Web Hacking](https://www.hackerone.com/ethical-hacker/setting-up-web-hacking-environment)
 - [Join HackerOne’s Ambassador World Cup](https://www.hackerone.com/lhe/join-ambassador-world-cup)
@@ -118,8 +119,8 @@
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
-- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
+- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -217,8 +218,8 @@
 - [5 Security Stages of the DevSecOps Pipeline](https://www.hackerone.com/application-security/5-security-stages-devsecops-pipeline)
 - [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [Hacker&#39;s Health: Adverse Effects of Doomscrolling](https://www.hackerone.com/hackers-health-adverse-effects-doomscrolling)
-- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
+- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [How Bug Bounty Uncovered A 5-Year-Old Vulnerability In Hours](https://www.hackerone.com/ethical-hacker/how-bug-bounty-uncovered-5-year-old-vulnerability-hours)
 - [Live Hacking Event Invitations - 2022 Guide](https://www.hackerone.com/live-hacking-event-invitations-2022-guide)
 - [CISOs: Do You Know the Security Risks of Your Organization&#39;s Next M&amp;A?](https://www.hackerone.com/vulnerability-management/cisos-do-you-know-security-risks-your-organizations-next-ma)
@@ -499,5 +500,4 @@
 - [More Hackers Means Less To Worry About](https://www.hackerone.com/ceo/more-hackers-means-less-worry-about)
 - [Oath’s Big Year of Bug Bounties Capped off with NYC Live Hacking Event](https://www.hackerone.com/ethical-hacker/oaths-big-year-bug-bounties-capped-nyc-live-hacking-event)
 - [GitLab’s Public Bug Bounty Program Kicks Off: Q&amp;A with GitLab’s Kathy Wang &amp; James Ritchey](https://www.hackerone.com/vulnerability-management/gitlabs-public-bug-bounty-program-kicks-qa-gitlabs-kathy-wang-james)
-- [Grammarly’s Bug Bounty Program Goes Public: Q&amp;A with VP of Engineering Joe Xavier](https://www.hackerone.com/company-news/grammarlys-bug-bounty-program-goes-public-qa-vp-engineering-joe-xavier)
 <!-- WRITEUPS:END -->
