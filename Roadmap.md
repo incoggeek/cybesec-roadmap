@@ -917,7 +917,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How Serialized Cookies Led to RCE on a WordPress Website](https://www.hackerone.com/vulnerability-management/wordpress-custom-theme-rce)
 - [XSS | Here’s how I got my first bounty](https://medium.com/@sM0ky4/xss-heres-how-i-got-my-first-bounty-4f64785fe6f8?source=rss------bug_bounty_writeup-5)
 - [How I Hacked Indian Government Sub-Registrar Database](https://medium.com/@maxcyber882/how-i-hacked-indian-government-sub-registrar-database-18a4f4670f07?source=rss------bug_bounty_writeup-5)
 - [ISO 27001 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/iso-27001-pentesting)
@@ -1417,6 +1416,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Your First 90 Days as Security Lead, Part 1: Building Your Security Foundation](https://www.hackerone.com/vulnerability-management/your-first-90-days-security-lead-part-1-building-your-security-foundation)
 - [More Hackers Means Less To Worry About](https://www.hackerone.com/ceo/more-hackers-means-less-worry-about)
 - [Oath’s Big Year of Bug Bounties Capped off with NYC Live Hacking Event](https://www.hackerone.com/ethical-hacker/oaths-big-year-bug-bounties-capped-nyc-live-hacking-event)
+- [GitLab’s Public Bug Bounty Program Kicks Off: Q&amp;A with GitLab’s Kathy Wang &amp; James Ritchey](https://www.hackerone.com/vulnerability-management/gitlabs-public-bug-bounty-program-kicks-qa-gitlabs-kathy-wang-james)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
