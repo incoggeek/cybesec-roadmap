@@ -919,6 +919,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 <!-- WRITEUPS:START -->
 - [A Strange Tale of Email Verification Bypass](https://medium.com/@Arioex/a-strange-tale-of-email-verification-bypass-5eda231d14d8?source=rss------bug_bounty_writeup-5)
 - [CSRF Bypass Combined with IDOR To Complete Account Takeover!](https://medium.com/@ozomarzu/csrf-bypass-combined-with-idor-to-complete-account-takeover-f4995c5946d3?source=rss------bug_bounty_writeup-5)
+- [WolvCTF 2024: Forensics Challenges](https://infosecwriteups.com/wolvctf-2024-forensics-challenges-3f307fab6576?source=rss----7b722bfd1b8d---4)
+- [Defense against Ransomware](https://infosecwriteups.com/defense-against-ransomware-8bf30532e93d?source=rss----7b722bfd1b8d---4)
+- [Hacking Web Meeting/Webinar App](https://infosecwriteups.com/hacking-web-meeting-webinar-app-1cb31c648752?source=rss----7b722bfd1b8d---4)
+- [Privilege Escalation Using SCIM Provisioning](https://infosecwriteups.com/privilege-escalation-using-scim-provisioning-ca61ed9606bd?source=rss----7b722bfd1b8d---4)
+- [Admin Account Takeover](https://infosecwriteups.com/admin-account-takeover-ab7535fe0fdb?source=rss----7b722bfd1b8d---4)
+- [Sensitive data leak using IDOR in integration service](https://infosecwriteups.com/sensitive-data-leak-using-idor-in-integration-service-d9301be9c91e?source=rss----7b722bfd1b8d---4)
+- [Understanding Zero Trust Architecture: A New Paradigm in Cybersecurity](https://infosecwriteups.com/understanding-zero-trust-architecture-a-new-paradigm-in-cybersecurity-b0f144f75f6c?source=rss----7b722bfd1b8d---4)
+- [HackTheBox Academy: Privilege Escalation](https://infosecwriteups.com/hackthebox-academy-privilege-escalation-ca0a8ad2259e?source=rss----7b722bfd1b8d---4)
+- [Incident Response: A Comprehensive Guide for Businesses and Cybersecurity Professionals](https://infosecwriteups.com/incident-response-a-comprehensive-guide-for-businesses-and-cybersecurity-professionals-f4debbcb5ecc?source=rss----7b722bfd1b8d---4)
+- [Unlocking ChatGPT’s Internal Prompts: A Guide to Reverse Engineering AI Conversation Models](https://infosecwriteups.com/unlocking-chatgpts-internal-prompts-a-guide-to-reverse-engineering-ai-conversation-models-eebdd9bdfd2b?source=rss----7b722bfd1b8d---4)
 - [How Serialized Cookies Led to RCE on a WordPress Website](https://www.hackerone.com/vulnerability-management/wordpress-custom-theme-rce)
 - [XSS | Here’s how I got my first bounty](https://medium.com/@sM0ky4/xss-heres-how-i-got-my-first-bounty-4f64785fe6f8?source=rss------bug_bounty_writeup-5)
 - [How I Hacked Indian Government Sub-Registrar Database](https://medium.com/@maxcyber882/how-i-hacked-indian-government-sub-registrar-database-18a4f4670f07?source=rss------bug_bounty_writeup-5)
@@ -1407,16 +1417,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Introducing Indian Rupee payments: Cheaper and faster bank transfers](https://www.hackerone.com/ethical-hacker/introducing-indian-rupee-payments-cheaper-and-faster-bank-transfers)
 - [Your First 90 Days as Security Lead, Part 1: Building Your Security Foundation](https://www.hackerone.com/vulnerability-management/your-first-90-days-security-lead-part-1-building-your-security-foundation)
 - [More Hackers Means Less To Worry About](https://www.hackerone.com/ceo/more-hackers-means-less-worry-about)
-- [Oath’s Big Year of Bug Bounties Capped off with NYC Live Hacking Event](https://www.hackerone.com/ethical-hacker/oaths-big-year-bug-bounties-capped-nyc-live-hacking-event)
-- [GitLab’s Public Bug Bounty Program Kicks Off: Q&amp;A with GitLab’s Kathy Wang &amp; James Ritchey](https://www.hackerone.com/vulnerability-management/gitlabs-public-bug-bounty-program-kicks-qa-gitlabs-kathy-wang-james)
-- [Grammarly’s Bug Bounty Program Goes Public: Q&amp;A with VP of Engineering Joe Xavier](https://www.hackerone.com/company-news/grammarlys-bug-bounty-program-goes-public-qa-vp-engineering-joe-xavier)
-- [Hacktivity Disclosure for Private Programs](https://www.hackerone.com/ethical-hacker/hacktivity-disclosure-private-programs)
-- [Q&amp;A with Flickr’s Senior Engineering Manager Alex Seville](https://www.hackerone.com/application-security/qa-flickrs-senior-engineering-manager-alex-seville)
-- [Easy and secure Credential Management](https://www.hackerone.com/security-compliance/easy-and-secure-credential-management)
-- [Test your hacking skills on real-world simulated bugs](https://www.hackerone.com/ethical-hacker/test-your-hacking-skills-real-world-simulated-bugs)
-- [Introducing Hacker Dashboard: Your personalized HackerOne overview](https://www.hackerone.com/ethical-hacker/introducing-hacker-dashboard-your-personalized-hackerone-overview)
-- [Hacker101 CTF++: Find flags, get private bug bounty program invitations](https://www.hackerone.com/application-security/hacker101-ctf-find-flags-get-private-bug-bounty-program-invitations)
-- [Shopify Awards $116,000 to Hackers in Canada: h1-514 Recap](https://www.hackerone.com/ethical-hacker/shopify-awards-116000-hackers-canada-h1-514-recap)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
