@@ -1,5 +1,6 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [Broken Access Control &lpar;IDOR&rpar; &amp; Credential Leak at Legacy API Video Transcode](https://medium.com/@blackarazi/broken-access-control-idor-credential-leak-at-legacy-api-video-transcode-9b5d729fb2d6?source=rss------bug_bounty_writeup-5)
 - [JNDI Injection — The Complete Story](https://infosecwriteups.com/jndi-injection-the-complete-story-4c5bfbb3f6e1?source=rss----7b722bfd1b8d---4)
 - [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
 - [HackerOne Company Values Matter: Win as a Team](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-win-team)
@@ -499,5 +500,4 @@
 - [Launching the Hacker Calendar, Never Miss a Challenge Again](https://www.hackerone.com/ethical-hacker/launching-hacker-calendar-never-miss-challenge-again)
 - [EU-FOSSA 2 Open Source Bug Bounty Programme Series | Q&amp;A](https://www.hackerone.com/company-news/eu-fossa-2-open-source-bug-bounty-programme-series-qa)
 - [Riot Games Surpasses 1,000 Valid Reports: Q&amp;A](https://www.hackerone.com/vulnerability-management/riot-games-surpasses-1000-valid-reports-qa)
-- [Open-Xchange Approaches 3 Years of Bug Bounties &amp; 250 Valid Vulnerabilities](https://www.hackerone.com/vulnerability-management/open-xchange-approaches-3-years-bug-bounties-250-valid-vulnerabilities)
 <!-- WRITEUPS:END -->
