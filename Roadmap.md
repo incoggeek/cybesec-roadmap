@@ -917,6 +917,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Discovery Worth $$$ in KYC Verification Feature : Bug Bounty](https://medium.com/@srishavinkumar/unveiling-a-surprising-bug-in-kyc-verification-the-discovery-worth-a82f3282b033?source=rss------bug_bounty_writeup-5)
 - [Winning Together Through Synergy and Vulnerabilities](https://www.hackerone.com/engineering-blog/winning-together-through-synergy-and-vulnerabilities)
 - [Broken Access Control &lpar;IDOR&rpar; &amp; Credential Leak at Legacy API Video Transcode](https://medium.com/@blackarazi/broken-access-control-idor-credential-leak-at-legacy-api-video-transcode-9b5d729fb2d6?source=rss------bug_bounty_writeup-5)
 - [JNDI Injection — The Complete Story](https://infosecwriteups.com/jndi-injection-the-complete-story-4c5bfbb3f6e1?source=rss----7b722bfd1b8d---4)
@@ -1416,7 +1417,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Alibaba and HackerOne Join Forces in Global Vulnerability Testing Program](https://www.hackerone.com/vulnerability-management/alibaba-and-hackerone-join-forces-global-vulnerability-testing-program)
 - [Introducing My Programs](https://www.hackerone.com/ethical-hacker/introducing-my-programs)
 - [Launching the Hacker Calendar, Never Miss a Challenge Again](https://www.hackerone.com/ethical-hacker/launching-hacker-calendar-never-miss-challenge-again)
-- [EU-FOSSA 2 Open Source Bug Bounty Programme Series | Q&amp;A](https://www.hackerone.com/company-news/eu-fossa-2-open-source-bug-bounty-programme-series-qa)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
