@@ -917,6 +917,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [AI Developers’ AMA: AI System Design and Development](https://www.hackerone.com/ai/developers-system-design-development)
 - [Microsoft Activation Scripts &lpar;MAS&rpar;: Guide to Freely Activating Windows and Office](https://infosecwriteups.com/microsoft-activation-scripts-mas-guide-to-freely-activating-windows-and-office-21d1d8349d36?source=rss----7b722bfd1b8d---4)
 - [Scheduled Network Activity Reports using a Simple set of Tools](https://infosecwriteups.com/scheduled-network-activity-reports-using-a-simple-set-of-tools-646367b22c33?source=rss----7b722bfd1b8d---4)
 - [Bypass Firewall by Finding Origin IP](https://infosecwriteups.com/bypass-firewall-by-finding-origin-ip-41ba984e1342?source=rss----7b722bfd1b8d---4)
@@ -1052,8 +1053,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
-- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
+- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -1151,8 +1152,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [5 Security Stages of the DevSecOps Pipeline](https://www.hackerone.com/application-security/5-security-stages-devsecops-pipeline)
 - [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [Hacker&#39;s Health: Adverse Effects of Doomscrolling](https://www.hackerone.com/hackers-health-adverse-effects-doomscrolling)
-- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
+- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [How Bug Bounty Uncovered A 5-Year-Old Vulnerability In Hours](https://www.hackerone.com/ethical-hacker/how-bug-bounty-uncovered-5-year-old-vulnerability-hours)
 - [Live Hacking Event Invitations - 2022 Guide](https://www.hackerone.com/live-hacking-event-invitations-2022-guide)
 - [CISOs: Do You Know the Security Risks of Your Organization&#39;s Next M&amp;A?](https://www.hackerone.com/vulnerability-management/cisos-do-you-know-security-risks-your-organizations-next-ma)
@@ -1416,7 +1417,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Introducing Hacker Task Manager and Statistics](https://www.hackerone.com/ethical-hacker/Introducing-Hacker-Task-Manager-and-Statistics)
 - [Design the next HackerOne T-Shirt](https://www.hackerone.com/company-news/Design-next-HackerOne-T-Shirt)
 - [Five years of the GitHub Bug Bounty program](https://www.hackerone.com/application-security/five-years-github-bug-bounty-program)
-- [HackerOne Hosts Rails Girls in Groningen](https://www.hackerone.com/company-news/hackerone-hosts-rails-girls-groningen)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
