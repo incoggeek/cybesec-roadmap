@@ -1,6 +1,8 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [HackerOne&#39;s Top 10 AI EMB&lpar;arrassments&rpar;](https://www.hackerone.com/ai/top-10-ai-embarrassments)
 - [Use FFUF to bypass Burp Suite’s Intruder attacks delay!!!](https://hackermater.medium.com/use-ffuf-to-bypass-burp-suite-intruder-attacks-delay-c5087c912741?source=rss------bug_bounty_writeup-5)
+- [3 Bug Bounty Lessons From Retail &amp; eCommerce Customers](https://www.hackerone.com/customer-stories/retail-ecommerce-lessons)
 - [Digging into Javascript to find the gem](https://rudrasarkar.medium.com/digging-into-javascript-to-find-the-gem-688c06c38db7?source=rss------bug_bounty_writeup-5)
 - [A Beautiful Bug: Interesting URL scheme bypass + Race Condition.](https://medium.com/@Nightbloodz/a-beautiful-bug-interesting-url-scheme-bypass-race-condition-61109771a250?source=rss------bug_bounty_writeup-5)
 - [GDPR and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/gdpr-pentesting)
@@ -498,6 +500,4 @@
 - [Security at Startup Speed: Enterprise Grade Security from the Start](https://www.hackerone.com/application-security/Security-Startup-Speed-Enterprise-Grade-Security-Start)
 - [Q&amp;A with Brian Neely, CIO &amp; CISO of AMERICAN SYSTEMS](https://www.hackerone.com/vulnerability-management/qa-brian-neely-cio-ciso-american-systems)
 - [@try_to_hack Makes History as First Bug Bounty Hacker to Earn over $1 Million](https://www.hackerone.com/company-news/trytohack-makes-history-first-bug-bounty-hacker-earn-over-1-million)
-- [Q&amp;A with HackerOne’s VP of Customer Success Jeff McBride](https://www.hackerone.com/company-news/qa-hackerones-vp-customer-success-jeff-mcbride)
-- [Program Insights from the PayPal Security Team](https://www.hackerone.com/vulnerability-management/program-insights-paypal-security-team)
 <!-- WRITEUPS:END -->
