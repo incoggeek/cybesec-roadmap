@@ -917,6 +917,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
 - [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
 - [How I Found My First RCE](https://medium.com/@HackerJacke/how-i-found-my-first-rce-daa69decb4c3?source=rss------bug_bounty_writeup-5)
 - [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
@@ -1416,7 +1417,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hacker-Powered Security, Government Support Needed to Protect Financial Services Consumers from Application Vulnerabilities](https://www.hackerone.com/security-compliance/hacker-powered-security-government-support-needed-protect-financial-services)
 - [Product Updates and Enhancements](https://www.hackerone.com/company-news/product-updates-and-enhancements)
 - [Airbnb and Verizon Media participate in 3rd annual h1-415 live hacking event including a cybersecurity mentorship program](https://www.hackerone.com/ethical-hacker/airbnb-and-verizon-media-participate-3rd-annual-h1-415-live-hacking-event-including)
-- [Xiaomi Security Center Welcomes Security Research with HackerOne Partnership](https://www.hackerone.com/vulnerability-management/xiaomi-security-center-welcomes-security-research-hackerone-partnership)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
