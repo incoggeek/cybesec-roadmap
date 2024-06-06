@@ -917,7 +917,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
 - [How I Found My First RCE](https://medium.com/@HackerJacke/how-i-found-my-first-rce-daa69decb4c3?source=rss------bug_bounty_writeup-5)
+- [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
+- [Hack My Career: Advice from HackerOne Employees](https://www.hackerone.com/culture-and-talent/hack-my-career-advice-hackerone-employees)
 - [BYOVD Attacks: The Hidden Threats of Vulnerable Drivers](https://infosecwriteups.com/byovd-attacks-the-hidden-threats-of-vulnerable-drivers-d1aebe9b552e?source=rss----7b722bfd1b8d---4)
 - [Mitigating Malware](https://infosecwriteups.com/mitigating-malware-923d6dfad0a8?source=rss----7b722bfd1b8d---4)
 - [Building Own Nuclei Templates](https://infosecwriteups.com/building-own-nuclei-templates-c0e45ea7aac7?source=rss----7b722bfd1b8d---4)
@@ -1414,9 +1417,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Product Updates and Enhancements](https://www.hackerone.com/company-news/product-updates-and-enhancements)
 - [Airbnb and Verizon Media participate in 3rd annual h1-415 live hacking event including a cybersecurity mentorship program](https://www.hackerone.com/ethical-hacker/airbnb-and-verizon-media-participate-3rd-annual-h1-415-live-hacking-event-including)
 - [Xiaomi Security Center Welcomes Security Research with HackerOne Partnership](https://www.hackerone.com/vulnerability-management/xiaomi-security-center-welcomes-security-research-hackerone-partnership)
-- [Security at Startup Speed: Enterprise Grade Security from the Start](https://www.hackerone.com/application-security/Security-Startup-Speed-Enterprise-Grade-Security-Start)
-- [Q&amp;A with Brian Neely, CIO &amp; CISO of AMERICAN SYSTEMS](https://www.hackerone.com/vulnerability-management/qa-brian-neely-cio-ciso-american-systems)
-- [@try_to_hack Makes History as First Bug Bounty Hacker to Earn over $1 Million](https://www.hackerone.com/company-news/trytohack-makes-history-first-bug-bounty-hacker-earn-over-1-million)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
