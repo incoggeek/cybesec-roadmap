@@ -1,5 +1,6 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-2&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-2-ef65d69de157?source=rss------bug_bounty_writeup-5)
 - [How I found OpenHAB Automation Panels Accessible Without Authentication](https://medium.com/@jeetpal2007/how-i-found-openhab-automation-panels-accessible-without-authentication-d9edbb3280fd?source=rss------bug_bounty_writeup-5)
 - [How I found a account takeover on a web 3 platform](https://medium.com/@jeetpal2007/how-i-found-a-account-takeover-on-a-web-3-platform-27953f37944b?source=rss------bug_bounty_writeup-5)
@@ -122,8 +123,8 @@
 - [Meet HackerOne’s Brand Ambassadors That Break the Hacker Stereotype](https://www.hackerone.com/ethical-hacker/young-hackers-for-good)
 - [What Do New Cybersecurity Rules Mean For CISOs?](https://www.hackerone.com/security-compliance/new-cybersecurity-rules-for-cisos)
 - [About the HackerOne Engineering Mentoring Program](https://www.hackerone.com/culture-and-talent/engineer-mentoring)
-- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Women in Sales: The Importance of a Diverse Team](https://www.hackerone.com/culture-and-talent/women-in-sales)
+- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Why This Moment In Cybersecurity Needs Hackers To Protect All Software](https://www.hackerone.com/blogs-hackerones-ceo/why-moment-cybersecurity-needs-hackers-protect-all-software)
 - [Ethical Hacking: Unveiling the Power of Hacking for Good in Cybersecurity](https://www.hackerone.com/thought-leadership/aws-podcast-ethical-hacking-cybersecurity)
 - [The Hacker Perspective on Generative AI and Cybersecurity](https://www.hackerone.com/thought-leadership/generative-ai-cybersecurity-hacker-perspective)
@@ -135,8 +136,8 @@
 - [HackerOne and the OWASP Top 10 for LLM: A Powerful Alliance for Secure AI](https://www.hackerone.com/vulnerability-management/owasp-llm-vulnerabilities)
 - [Company Update](https://www.hackerone.com/company-news/company-update)
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
-- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
+- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
@@ -499,5 +500,4 @@
 - [Introducing Hacker Task Manager and Statistics](https://www.hackerone.com/ethical-hacker/Introducing-Hacker-Task-Manager-and-Statistics)
 - [Design the next HackerOne T-Shirt](https://www.hackerone.com/company-news/Design-next-HackerOne-T-Shirt)
 - [Five years of the GitHub Bug Bounty program](https://www.hackerone.com/application-security/five-years-github-bug-bounty-program)
-- [HackerOne Hosts Rails Girls in Groningen](https://www.hackerone.com/company-news/hackerone-hosts-rails-girls-groningen)
 <!-- WRITEUPS:END -->
