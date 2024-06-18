@@ -917,6 +917,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-5&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-5-efb95db2210b?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Hunting — Complete Guide &lpar;Part -4&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-4-00e815fa8026?source=rss------bug_bounty_writeup-5)
 - [IDORs: What are they and how to find them](https://infosecwriteups.com/idors-what-are-they-and-how-to-find-them-f4393fbb522a?source=rss----7b722bfd1b8d---4)
 - [Content Discovery With FFUF](https://infosecwriteups.com/content-discovery-with-ffuf-5bc81d2d8db6?source=rss----7b722bfd1b8d---4)
 - [OpManager: CSRF &amp; XS-Leak Chained for Information Disclosure](https://infosecwriteups.com/opmanager-csrf-xs-leak-chained-for-information-disclosure-382c6ee518ca?source=rss----7b722bfd1b8d---4)
@@ -936,10 +938,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Account Takeover &lpar;ATO&rpar; Checklist](https://medium.com/@anonymoustriager/account-takeover-ato-checklist-f67d2543b01f?source=rss------bug_bounty_writeup-5)
 - [Content Discovery With FFUF](https://infosecwriteups.com/content-discovery-with-ffuf-5bc81d2d8db6?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part -1&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-1-21a87e35fdfa?source=rss------bug_bounty_writeup-5)
-- [Fresh Targets to hunt on for $$$$&lpar;wildscope&rpar;](https://medium.com/@anonymoustriager/fresh-targets-to-hunt-on-for-wildscope-abdebaf4f94d?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
 - [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
-- [How I Found My First RCE](https://medium.com/@HackerJacke/how-i-found-my-first-rce-daa69decb4c3?source=rss------bug_bounty_writeup-5)
 - [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
 - [Hack My Career: Advice from HackerOne Employees](https://www.hackerone.com/culture-and-talent/hack-my-career-advice-hackerone-employees)
 - [HackerOne&#39;s List of Top 10 AI EMB&lpar;arrassments&rpar;](https://www.hackerone.com/ai/top-10-ai-embarrassments)
@@ -1005,6 +1005,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [Reversing The Trend: Support and Mediation Win as a Team](https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team)
 - [Decoding the Characteristics of Modern Pentesting: Effectiveness](https://www.hackerone.com/penetration-testing/modern-pentesting-effectiveness)
+- [How Ethical Hackers Help AS Watson Address Digital Risk](https://www.hackerone.com/customer-stories/how-ethical-hackers-help-watson-address-digital-risk)
 - [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
 - [AI Safety vs. AI Security](https://www.hackerone.com/ai/safety-vs-security)
 - [HackerOne’s In-Depth Approach to Vulnerability Triage and Validation](https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation)
@@ -1188,7 +1189,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Announcing the Results of the 12-month DIB-VDP Pilot](https://www.hackerone.com/vulnerability-disclosure/announcing-results-12-month-dib-vdp-pilot)
 - [How Wix Improves Their Security Posture with Ethical Hackers](https://www.hackerone.com/customer-stories/how-wix-improves-their-security-posture-ethical-hackers)
 - [Announcing the HackerOne 2022 Attack Resistance Report: A Security Survey—How to Close Your Organization&#39;s Attack Resistance Gap](https://www.hackerone.com/company-news/announcing-hackerone-2022-attack-resistance-report-security-survey-how-close-your)
-- [How Ethical Hackers Help A.S. Watson Address Digital Risk](https://www.hackerone.com/customer-stories/how-ethical-hackers-help-watson-address-digital-risk)
 - [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
 - [Preventing Compromised Password Reuse on HackerOne.com](https://www.hackerone.com/best-practices/preventing-compromised-password-reuse-hackeronecom)
 - [Shifting Left with Ethical Hackers: A Q&amp;A with GitLab](https://www.hackerone.com/bounty/shifting-left-ethical-hackers-qa-gitlab)
