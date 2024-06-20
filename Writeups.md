@@ -1,6 +1,7 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
 - [Mastering Bug Bounty: Tips and Strategies for Success](https://medium.com/@cyber_catz/mastering-bug-bounty-tips-and-strategies-for-success-df27b24f2009?source=rss------bug_bounty_writeup-5)
+- [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-5&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-5-efb95db2210b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part -4&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-4-00e815fa8026?source=rss------bug_bounty_writeup-5)
 - [IDORs: What are they and how to find them](https://infosecwriteups.com/idors-what-are-they-and-how-to-find-them-f4393fbb522a?source=rss----7b722bfd1b8d---4)
@@ -499,5 +500,4 @@
 - [What the California Consumer Privacy Act Means For You](https://www.hackerone.com/security-compliance/what-california-consumer-privacy-act-means-you)
 - [Hackers have earned more than $50M in bug bounty cash on HackerOne: Time to celebrate!](https://www.hackerone.com/ethical-hacker/hackers-have-earned-more-50m-bug-bounty-cash-hackerone-time-celebrate)
 - [Hacker-Powered Security, Government Support Needed to Protect Financial Services Consumers from Application Vulnerabilities](https://www.hackerone.com/security-compliance/hacker-powered-security-government-support-needed-protect-financial-services)
-- [Product Updates and Enhancements](https://www.hackerone.com/company-news/product-updates-and-enhancements)
 <!-- WRITEUPS:END -->
