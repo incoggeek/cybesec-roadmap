@@ -1,6 +1,7 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
 - [Mastering Bug Bounty: Tips and Strategies for Success](https://medium.com/@cyber_catz/mastering-bug-bounty-tips-and-strategies-for-success-df27b24f2009?source=rss------bug_bounty_writeup-5)
+- [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-5&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-5-efb95db2210b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part -4&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-4-00e815fa8026?source=rss------bug_bounty_writeup-5)
 - [IDORs: What are they and how to find them](https://infosecwriteups.com/idors-what-are-they-and-how-to-find-them-f4393fbb522a?source=rss----7b722bfd1b8d---4)
@@ -134,8 +135,8 @@
 - [Meet HackerOne’s Brand Ambassadors That Break the Hacker Stereotype](https://www.hackerone.com/ethical-hacker/young-hackers-for-good)
 - [What Do New Cybersecurity Rules Mean For CISOs?](https://www.hackerone.com/security-compliance/new-cybersecurity-rules-for-cisos)
 - [About the HackerOne Engineering Mentoring Program](https://www.hackerone.com/culture-and-talent/engineer-mentoring)
-- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Women in Sales: The Importance of a Diverse Team](https://www.hackerone.com/culture-and-talent/women-in-sales)
+- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Why This Moment In Cybersecurity Needs Hackers To Protect All Software](https://www.hackerone.com/blogs-hackerones-ceo/why-moment-cybersecurity-needs-hackers-protect-all-software)
 - [Ethical Hacking: Unveiling the Power of Hacking for Good in Cybersecurity](https://www.hackerone.com/thought-leadership/aws-podcast-ethical-hacking-cybersecurity)
 - [The Hacker Perspective on Generative AI and Cybersecurity](https://www.hackerone.com/thought-leadership/generative-ai-cybersecurity-hacker-perspective)
@@ -147,8 +148,8 @@
 - [HackerOne and the OWASP Top 10 for LLM: A Powerful Alliance for Secure AI](https://www.hackerone.com/vulnerability-management/owasp-llm-vulnerabilities)
 - [Company Update](https://www.hackerone.com/company-news/company-update)
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
-- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
+- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
@@ -499,5 +500,4 @@
 - [What the California Consumer Privacy Act Means For You](https://www.hackerone.com/security-compliance/what-california-consumer-privacy-act-means-you)
 - [Hackers have earned more than $50M in bug bounty cash on HackerOne: Time to celebrate!](https://www.hackerone.com/ethical-hacker/hackers-have-earned-more-50m-bug-bounty-cash-hackerone-time-celebrate)
 - [Hacker-Powered Security, Government Support Needed to Protect Financial Services Consumers from Application Vulnerabilities](https://www.hackerone.com/security-compliance/hacker-powered-security-government-support-needed-protect-financial-services)
-- [Product Updates and Enhancements](https://www.hackerone.com/company-news/product-updates-and-enhancements)
 <!-- WRITEUPS:END -->
