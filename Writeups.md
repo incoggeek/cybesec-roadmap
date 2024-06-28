@@ -1,5 +1,6 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-20&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-20-a60e30106e0c?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-19&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-19-7dfd1bd2d1ba?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-18&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-18-5179747f60c3?source=rss------bug_bounty_writeup-5)
@@ -157,8 +158,8 @@
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
 - [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
-- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
+- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -256,8 +257,8 @@
 - [5 Security Stages of the DevSecOps Pipeline](https://www.hackerone.com/application-security/5-security-stages-devsecops-pipeline)
 - [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [Hacker&#39;s Health: Adverse Effects of Doomscrolling](https://www.hackerone.com/hackers-health-adverse-effects-doomscrolling)
-- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
+- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [How Bug Bounty Uncovered A 5-Year-Old Vulnerability In Hours](https://www.hackerone.com/ethical-hacker/how-bug-bounty-uncovered-5-year-old-vulnerability-hours)
 - [Live Hacking Event Invitations - 2022 Guide](https://www.hackerone.com/live-hacking-event-invitations-2022-guide)
 - [CISOs: Do You Know the Security Risks of Your Organization&#39;s Next M&amp;A?](https://www.hackerone.com/vulnerability-management/cisos-do-you-know-security-risks-your-organizations-next-ma)
@@ -411,8 +412,8 @@
 - [There is no room for racism or inequality here.](https://www.hackerone.com/ceo/there-no-room-racism-or-inequality-here)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [The Journey in Data: HackerOne Hits 100 Million Dollars in Bounties](https://www.hackerone.com/ethical-hacker/journey-data-hackerone-hits-100-million-dollars-bounties)
-- [Thanks For Being Part Of The Journey to $100 Million in Bounties!](https://www.hackerone.com/ethical-hacker/thanks-being-part-journey-100-million-bounties)
 - [$100 Million Paid - One Billion in Sight for Hackers](https://www.hackerone.com/ceo/100-million-paid-one-billion-sight-hackers)
+- [Thanks For Being Part Of The Journey to $100 Million in Bounties!](https://www.hackerone.com/ethical-hacker/thanks-being-part-journey-100-million-bounties)
 - [10 Ways to Hack Your “New Normal” Workweek](https://www.hackerone.com/company-news/10-ways-hack-your-new-normal-workweek)
 - [How Federal Agencies Use Vulnerability Disclosure Policies to Level Up Security](https://www.hackerone.com/vulnerability-management/how-federal-agencies-use-vulnerability-disclosure-policies-level-security)
 - [Security by the People: Announcing HackerOne’s FedRAMP Authorization](https://www.hackerone.com/vulnerability-management/security-people-announcing-hackerones-fedramp-authorization)
@@ -499,5 +500,4 @@
 - [Taking The Guesswork Out of Vulnerability Reporting](https://www.hackerone.com/vulnerability-management/taking-guesswork-out-of-vulnerability-reporting)
 - [See Your Success In Real Time with the new Program Dashboard](https://www.hackerone.com/vulnerability-management/see-your-success-in-real-time-with-the-new-program-dashboard)
 - [Hacking Dropbox Live in the Heart of Singapore at h1-65](https://www.hackerone.com/ethical-hacker/hacking-dropbox-live-heart-singapore-h1-65)
-- [PayPal Thanks Hackers with $1 Million in 7 Months on HackerOne](https://www.hackerone.com/ethical-hacker/paypal-thanks-hackers-1-million-7-months-hackerone)
 <!-- WRITEUPS:END -->
