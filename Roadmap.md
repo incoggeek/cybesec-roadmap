@@ -924,8 +924,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Securing Crypto Company: Addressing Web 2.0 Vulnerabilities](https://metanetwebhostingsecurity.medium.com/securing-crypto-company-addressing-web-2-0-vulnerabilities-209bd7fc3d85?source=rss------bug_bounty_writeup-5)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
+- [What HackerOne Customers Say About the Problems Hackers Solve](https://www.hackerone.com/customer-stories/hackers-solve-problems)
 - [How i got Broken link hijacking vulnerability in Gov website](https://medium.com/@sreejihkn43073/how-i-got-broken-link-hijacking-vulnerability-in-gov-website-eafdc867a187?source=rss------bug_bounty_writeup-5)
 - [Disclose the email address and phone number of chinese business reseller](https://gtm0x01.medium.com/disclose-the-email-address-and-phone-number-of-chinese-business-reseller-f882978b8733?source=rss------bug_bounty_writeup-5)
 - [Pentesting for Web Applications](https://www.hackerone.com/penetration-testing/web-applications)
@@ -1422,8 +1424,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The HackerOne Top 10 Most Impactful and Rewarded Vulnerability Types](https://www.hackerone.com/vulnerability-management/hackerone-top-10-most-impactful-and-rewarded-vulnerability-types)
 - [Improving Your Workflows and Analysis with Custom Fields](https://www.hackerone.com/vulnerability-management/improving-your-workflows-and-analysis-custom-fields)
 - [Cloud Security Alliance Webinar Recap: Avoid the Breach with Shopify’s Andrew Dunbar](https://www.hackerone.com/application-security/cloud-security-alliance-webinar-recap-avoid-breach-shopifys-andrew-dunbar)
-- [When Moving To the Cloud, Don’t Leave Basic Security Behind](https://www.hackerone.com/application-security/when-moving-cloud-dont-leave-basic-security-behind)
-- [Grand Rounds VP InfoSec: Achieving SOC 2 Type II Compliance with Hacker-Powered Security](https://www.hackerone.com/security-compliance/grand-rounds-vp-infosec-achieving-soc-2-type-ii-compliance-hacker-powered)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
