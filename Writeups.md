@@ -1,6 +1,5 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
-- [IDOR at the Get Payment Data Endpoint Leads to Personal Identifiable Information &lpar;PII&rpar; Disclosure](https://medium.com/@blackarazi/idor-at-the-get-payment-data-endpoint-leads-to-personal-identifiable-information-pii-disclosure-7956c57058af?source=rss------bug_bounty_writeup-5)
 - [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Securing Crypto Company: Addressing Web 2.0 Vulnerabilities](https://metanetwebhostingsecurity.medium.com/securing-crypto-company-addressing-web-2-0-vulnerabilities-209bd7fc3d85?source=rss------bug_bounty_writeup-5)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
@@ -500,4 +499,5 @@
 - [The HackerOne Top 10 Most Impactful and Rewarded Vulnerability Types](https://www.hackerone.com/vulnerability-management/hackerone-top-10-most-impactful-and-rewarded-vulnerability-types)
 - [Improving Your Workflows and Analysis with Custom Fields](https://www.hackerone.com/vulnerability-management/improving-your-workflows-and-analysis-custom-fields)
 - [Cloud Security Alliance Webinar Recap: Avoid the Breach with Shopify’s Andrew Dunbar](https://www.hackerone.com/application-security/cloud-security-alliance-webinar-recap-avoid-breach-shopifys-andrew-dunbar)
+- [When Moving To the Cloud, Don’t Leave Basic Security Behind](https://www.hackerone.com/application-security/when-moving-cloud-dont-leave-basic-security-behind)
 <!-- WRITEUPS:END -->
