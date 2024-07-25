@@ -919,6 +919,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 <!-- WRITEUPS:START -->
 - [IDOR : Payment Fraud on GYM Membership website](https://uzet.medium.com/idor-payment-fraud-on-gym-membership-website-d4e67f07db57?source=rss------bug_bounty_writeup-5)
 - [Python for Penetration Testing: Automating Cybersecurity with Python](https://infosecwriteups.com/python-for-penetration-testing-automating-cybersecurity-with-python-f9ea2165852a?source=rss----7b722bfd1b8d---4)
+- [Hack My Career: Meet Naz Bozdemir](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-naz-bozdemir)
 - [Custom Inbox Enhancements: Revolutionizing Vulnerability Management for Enterprises](https://www.hackerone.com/vulnerability-management/custom-inbox-enhancements)
 - [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@danielsilva691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty_writeup-5)
 - [First €200 bug that started my Bug Bounty Career](https://medium.com/@sugamdangal52/first-200-bug-that-started-my-bug-bounty-career-c11a871e116f?source=rss------bug_bounty_writeup-5)
@@ -1068,8 +1069,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Meet HackerOne’s Brand Ambassadors That Break the Hacker Stereotype](https://www.hackerone.com/ethical-hacker/young-hackers-for-good)
 - [What Do New Cybersecurity Rules Mean For CISOs?](https://www.hackerone.com/security-compliance/new-cybersecurity-rules-for-cisos)
 - [About the HackerOne Engineering Mentoring Program](https://www.hackerone.com/culture-and-talent/engineer-mentoring)
-- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Women in Sales: The Importance of a Diverse Team](https://www.hackerone.com/culture-and-talent/women-in-sales)
+- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Why This Moment In Cybersecurity Needs Hackers To Protect All Software](https://www.hackerone.com/blogs-hackerones-ceo/why-moment-cybersecurity-needs-hackers-protect-all-software)
 - [Ethical Hacking: Unveiling the Power of Hacking for Good in Cybersecurity](https://www.hackerone.com/thought-leadership/aws-podcast-ethical-hacking-cybersecurity)
 - [The Hacker Perspective on Generative AI and Cybersecurity](https://www.hackerone.com/thought-leadership/generative-ai-cybersecurity-hacker-perspective)
@@ -1081,10 +1082,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne and the OWASP Top 10 for LLM: A Powerful Alliance for Secure AI](https://www.hackerone.com/vulnerability-management/owasp-llm-vulnerabilities)
 - [Company Update](https://www.hackerone.com/company-news/company-update)
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
-- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
-- [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
+- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
+- [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -1416,7 +1417,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Verizon Media Webinar Recap: Attack Surface Visibility &amp; Reducing Risk](https://www.hackerone.com/vulnerability-management/verizon-media-webinar-recap-attack-surface-visibility-reducing-risk)
 - [Breaking Down the Benefits of Hacker-Powered Pen Tests](https://www.hackerone.com/penetration-testing/breaking-down-benefits-hacker-powered-pen-tests)
 - [The HackerOne Top 10 Most Impactful and Rewarded Vulnerability Types](https://www.hackerone.com/vulnerability-management/hackerone-top-10-most-impactful-and-rewarded-vulnerability-types)
-- [Improving Your Workflows and Analysis with Custom Fields](https://www.hackerone.com/vulnerability-management/improving-your-workflows-and-analysis-custom-fields)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
