@@ -917,6 +917,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Python for Penetration Testing: Automating Cybersecurity with Python](https://infosecwriteups.com/python-for-penetration-testing-automating-cybersecurity-with-python-f9ea2165852a?source=rss----7b722bfd1b8d---4)
 - [Custom Inbox Enhancements: Revolutionizing Vulnerability Management for Enterprises](https://www.hackerone.com/vulnerability-management/custom-inbox-enhancements)
 - [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@danielsilva691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty_writeup-5)
 - [First €200 bug that started my Bug Bounty Career](https://medium.com/@sugamdangal52/first-200-bug-that-started-my-bug-bounty-career-c11a871e116f?source=rss------bug_bounty_writeup-5)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Enabling Reproducible and Verification of Time to Network Protocol Testing](https://infosecwriteups.com/unveiling-nsct-a-breakthrough-in-network-protocol-testing-b2356c2c7d70?source=rss----7b722bfd1b8d---4)
 - [Art of finding zero day vulnerabilities using Open Source AI](https://infosecwriteups.com/art-of-finding-zero-day-vulnerabilities-using-open-source-ai-e26eaaf323cb?source=rss----7b722bfd1b8d---4)
 - [Unlocking Kubernetes Security: The Complete Checklist](https://infosecwriteups.com/unlocking-kubernetes-security-the-complete-checklist-538fff3adacf?source=rss----7b722bfd1b8d---4)
-- [0 Click — Account Takeover | Bug Bounty](https://infosecwriteups.com/0-click-account-takeover-bug-bounty-12d6641f69f5?source=rss----7b722bfd1b8d---4)
 - [DORA: What You Need to Know](https://www.hackerone.com/penetration-testing/dora)
 - [What HackerOne Customers Say About Remediating Vulnerabilities and Getting the Best Results From Hackers](https://www.hackerone.com/customer-stories/get-the-most-from-hackers)
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
