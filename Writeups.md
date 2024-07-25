@@ -1,5 +1,6 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [IDOR : Payment Fraud on GYM Membership website](https://uzet.medium.com/idor-payment-fraud-on-gym-membership-website-d4e67f07db57?source=rss------bug_bounty_writeup-5)
 - [Python for Penetration Testing: Automating Cybersecurity with Python](https://infosecwriteups.com/python-for-penetration-testing-automating-cybersecurity-with-python-f9ea2165852a?source=rss----7b722bfd1b8d---4)
 - [Custom Inbox Enhancements: Revolutionizing Vulnerability Management for Enterprises](https://www.hackerone.com/vulnerability-management/custom-inbox-enhancements)
 - [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@danielsilva691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@
 - [Disclose the email address and phone number of chinese business reseller](https://gtm0x01.medium.com/disclose-the-email-address-and-phone-number-of-chinese-business-reseller-f882978b8733?source=rss------bug_bounty_writeup-5)
 - [Pentesting for Web Applications](https://www.hackerone.com/penetration-testing/web-applications)
 - [The Power of Semicolon “I hacked the dutch government and all i got was this lousy t-shirt”](https://medium.com/@whoadnan01/the-power-of-semicolon-i-hacked-the-dutch-government-and-all-i-got-was-this-lousy-t-shirt-04945371115f?source=rss------bug_bounty_writeup-5)
-- [Find XSS on the Fly &lpar; Full guide &rpar;](https://medium.com/@zack0x01_/find-xss-on-the-fly-full-guide-300f07fb86ae?source=rss------bug_bounty_writeup-5)
 - [A Simple 2FA Bypass](https://infosecwriteups.com/a-simple-2fa-bypass-43c8af9006ec?source=rss----7b722bfd1b8d---4)
 - [Data Profiling Reveals Why 39+ U.S. States Banned TikTok](https://infosecwriteups.com/data-profiling-reveals-why-39-u-s-states-banned-tiktok-4c64f968af7b?source=rss----7b722bfd1b8d---4)
 - [BountyDork: Your Ultimate Automatic Dorking Testing Companion For Bug Bounty](https://infosecwriteups.com/bountydork-your-ultimate-automatic-dorking-testing-companion-for-bug-bounty-b2bd41cb7344?source=rss----7b722bfd1b8d---4)
