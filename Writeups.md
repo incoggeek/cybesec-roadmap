@@ -1,5 +1,6 @@
 ## Writeups ✍🏼
 <!-- WRITEUPS:START -->
+- [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
 - [Privilege Escalation via Race Condition !](https://medium.com/@Ahmex000/privilege-escalation-via-race-condition-a2e641aeb2d9?source=rss------bug_bounty_writeup-5)
 - [IDOR : Payment Fraud on GYM Membership website](https://uzet.medium.com/idor-payment-fraud-on-gym-membership-website-d4e67f07db57?source=rss------bug_bounty_writeup-5)
 - [Python for Penetration Testing: Automating Cybersecurity with Python](https://infosecwriteups.com/python-for-penetration-testing-automating-cybersecurity-with-python-f9ea2165852a?source=rss----7b722bfd1b8d---4)
@@ -267,8 +268,8 @@
 - [5 Security Stages of the DevSecOps Pipeline](https://www.hackerone.com/application-security/5-security-stages-devsecops-pipeline)
 - [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [Hacker&#39;s Health: Adverse Effects of Doomscrolling](https://www.hackerone.com/hackers-health-adverse-effects-doomscrolling)
-- [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
 - [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
+- [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
 - [How Bug Bounty Uncovered A 5-Year-Old Vulnerability In Hours](https://www.hackerone.com/ethical-hacker/how-bug-bounty-uncovered-5-year-old-vulnerability-hours)
 - [Live Hacking Event Invitations - 2022 Guide](https://www.hackerone.com/live-hacking-event-invitations-2022-guide)
 - [CISOs: Do You Know the Security Risks of Your Organization&#39;s Next M&amp;A?](https://www.hackerone.com/vulnerability-management/cisos-do-you-know-security-risks-your-organizations-next-ma)
@@ -421,8 +422,8 @@
 - [There is no room for racism or inequality here.](https://www.hackerone.com/ceo/there-no-room-racism-or-inequality-here)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [The Journey in Data: HackerOne Hits 100 Million Dollars in Bounties](https://www.hackerone.com/ethical-hacker/journey-data-hackerone-hits-100-million-dollars-bounties)
-- [Thanks For Being Part Of The Journey to $100 Million in Bounties!](https://www.hackerone.com/ethical-hacker/thanks-being-part-journey-100-million-bounties)
 - [$100 Million Paid - One Billion in Sight for Hackers](https://www.hackerone.com/ceo/100-million-paid-one-billion-sight-hackers)
+- [Thanks For Being Part Of The Journey to $100 Million in Bounties!](https://www.hackerone.com/ethical-hacker/thanks-being-part-journey-100-million-bounties)
 - [10 Ways to Hack Your “New Normal” Workweek](https://www.hackerone.com/company-news/10-ways-hack-your-new-normal-workweek)
 - [How Federal Agencies Use Vulnerability Disclosure Policies to Level Up Security](https://www.hackerone.com/vulnerability-management/how-federal-agencies-use-vulnerability-disclosure-policies-level-security)
 - [Security by the People: Announcing HackerOne’s FedRAMP Authorization](https://www.hackerone.com/vulnerability-management/security-people-announcing-hackerones-fedramp-authorization)
@@ -499,5 +500,4 @@
 - [Live Hacking Events: Stats, invitations, and what’s next](https://www.hackerone.com/ethical-hacker/live-hacking-events-stats-invitations-and-whats-next)
 - [London Called, Hackers Answered: Recapping h1-4420](https://www.hackerone.com/ethical-hacker/london-called-hackers-answered-recapping-h1-4420)
 - [Verizon Media Webinar Recap: Attack Surface Visibility &amp; Reducing Risk](https://www.hackerone.com/vulnerability-management/verizon-media-webinar-recap-attack-surface-visibility-reducing-risk)
-- [Breaking Down the Benefits of Hacker-Powered Pen Tests](https://www.hackerone.com/penetration-testing/breaking-down-benefits-hacker-powered-pen-tests)
 <!-- WRITEUPS:END -->
