@@ -11,6 +11,7 @@
 - [How Malicious Tactics Are Getting Instagram Accounts Unfairly Banned: A Critical Threat to Users](https://infosecwriteups.com/how-malicious-tactics-are-getting-instagram-accounts-unfairly-banned-a-critical-threat-to-users-64969b339756?source=rss----7b722bfd1b8d---4)
 - [Hacking OWASP Juice Shop: Part 1 - Discovering Vulnerabilities](https://infosecwriteups.com/hacking-owasp-juice-shop-part-1-discovering-vulnerabilities-b85e974fb3e5?source=rss----7b722bfd1b8d---4)
 - [New Plans](https://medium.com/@nnface/new-plans-0b11cfa5495d?source=rss------bug_bounty_writeup-5)
+- [How a GraphQL Bug Resulted in Authentication Bypass](https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass)
 - [The Looming Threat: How an IDOR Vulnerability Could Have Exposed Millions of Merchants Details.](https://medium.com/@cy3erbeast/the-looming-threat-how-an-idor-vulnerability-could-have-exposed-millions-of-merchants-details-f488725489a0?source=rss------bug_bounty_writeup-5)
 - [CORS Checker by Professor the Hunter: Your Ultimate Tool for Testing Cross-Origin Resource Sharing](https://bughuntar.medium.com/cors-checker-by-professor-the-hunter-your-ultimate-tool-for-testing-cross-origin-resource-sharing-7521ff486cdf?source=rss------bug_bounty_writeup-5)
 - [github-recon
@@ -501,5 +502,4 @@ Github Search is a quite powerful and useful feature that can be used…](https:
 - [GraphQL Week on The Hacker101 Capture the Flag Challenges](https://www.hackerone.com/ethical-hacker/graphql-week-hacker101-capture-flag-challenges)
 - [Live Hacking Events: Stats, invitations, and what’s next](https://www.hackerone.com/ethical-hacker/live-hacking-events-stats-invitations-and-whats-next)
 - [London Called, Hackers Answered: Recapping h1-4420](https://www.hackerone.com/ethical-hacker/london-called-hackers-answered-recapping-h1-4420)
-- [Verizon Media Webinar Recap: Attack Surface Visibility &amp; Reducing Risk](https://www.hackerone.com/vulnerability-management/verizon-media-webinar-recap-attack-surface-visibility-reducing-risk)
 <!-- WRITEUPS:END -->
