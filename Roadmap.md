@@ -941,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 github-recon :
 Github Search is a quite powerful and useful feature that can be used…](https://medium.com/@aaedoo54/github-recon-github-recon-github-search-is-a-quite-powerful-and-useful-feature-that-can-be-used-818f2bfe5c00?source=rss------bug_bounty_writeup-5)
 - [Account Takeover using IDOR in Password reset Functionality](https://infosecwriteups.com/account-takeover-using-idor-in-password-reset-functionality-0d62c1bd5760?source=rss------bug_bounty_writeup-5)
-- [Open Redirect Vulnerability in Microsoft Create Portal](https://zeynalxan.medium.com/open-redirect-vulnerability-in-microsoft-create-portal-6654eb3e6b7a?source=rss------bug_bounty_writeup-5)
 - [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
 - [Are You Ready for the New NIST Control Around Public Disclosure Programs?](https://www.hackerone.com/security-compliance/nist-vdp-control)
 - [HIPAA and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/hipaa-pentesting)
@@ -1419,6 +1418,7 @@ Github Search is a quite powerful and useful feature that can be used…](https:
 - [Black Hat 2019: Highlights from the Biggest and Best Yet](https://www.hackerone.com/application-security/black-hat-2019-highlights-biggest-and-best-yet)
 - [The Security Vendors Startups like Lob Can&#39;t Live Without](https://www.hackerone.com/application-security/security-vendors-startups-lob-cant-live-without)
 - [GraphQL Week on The Hacker101 Capture the Flag Challenges](https://www.hackerone.com/ethical-hacker/graphql-week-hacker101-capture-flag-challenges)
+- [Live Hacking Events: Stats, invitations, and what’s next](https://www.hackerone.com/ethical-hacker/live-hacking-events-stats-invitations-and-whats-next)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
