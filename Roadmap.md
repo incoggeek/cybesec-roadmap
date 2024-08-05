@@ -917,6 +917,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [2024 N00bz CTF Pastebin Writeup](https://medium.com/@alimuhammadsecured/2024-n00bz-ctf-pastebin-writeup-aaa8991187ed?source=rss------bug_bounty_writeup-5)
 - [How could privilege escalation vulnerability lead to full account takeover?](https://medium.com/@moxallam/how-could-privilege-escalation-vulnerability-lead-to-full-account-takeover-0d49d3d5fbee?source=rss------bug_bounty_writeup-5)
 - [Best youtube channels to learn bughunting and penetration testing](https://medium.com/@sangamahesh650/best-youtube-channels-to-learn-bughunting-and-penetration-testing-eea2e78a202a?source=rss------bug_bounty_writeup-5)
 - [Finding subdomains from google](https://medium.com/@sangamahesh650/finding-subdomains-from-google-7f370fe60ad1?source=rss------bug_bounty_writeup-5)
@@ -1418,7 +1419,6 @@ Github Search is a quite powerful and useful feature that can be used…](https:
 - [Black Hat 2019: Highlights from the Biggest and Best Yet](https://www.hackerone.com/application-security/black-hat-2019-highlights-biggest-and-best-yet)
 - [The Security Vendors Startups like Lob Can&#39;t Live Without](https://www.hackerone.com/application-security/security-vendors-startups-lob-cant-live-without)
 - [GraphQL Week on The Hacker101 Capture the Flag Challenges](https://www.hackerone.com/ethical-hacker/graphql-week-hacker101-capture-flag-challenges)
-- [Live Hacking Events: Stats, invitations, and what’s next](https://www.hackerone.com/ethical-hacker/live-hacking-events-stats-invitations-and-whats-next)
 <!-- WRITEUPS:END -->
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
