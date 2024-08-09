@@ -917,6 +917,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to connect to the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-connect-to-the-dark-web-using-the-tor-browser/)
 - [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://medium.com/@kumawatabhijeet2002/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-1c855a5396f9?source=rss------bug_bounty_writeup-5)
 - [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://it4chis3c.medium.com/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-8001f758ac61?source=rss------bug_bounty_writeup-5)
 - [Easiest P3/P4 security misconfiguration to make $$ as a beginner.](https://medium.com/@sugamdangal52/easiest-p3-p4-security-misconfiguration-to-make-as-a-beginner-d4f019ad4b85?source=rss------bug_bounty_writeup-5)
@@ -1367,7 +1368,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Confessions of European CISOs](https://www.hackerone.com/company-news/confessions-european-cisos)
 - [LINE Security Bug Bounty Program Report 2019](https://www.hackerone.com/application-security/line-security-bug-bounty-program-report-2019)
 - [Congratulations, Cosmin! The world’s seventh million-dollar bug bounty hacker](https://www.hackerone.com/ethical-hacker/congratulations-cosmin-worlds-seventh-million-dollar-bug-bounty-hacker)
-- [How to Disable Bing Search in the Windows 10 Start Menu](https://www.bleepingcomputer.com/tutorials/how-to-disable-bing-search-in-the-windows-10-start-menu/)
 - [Hyatt Celebrates its First Anniversary on HackerOne](https://www.hackerone.com/vulnerability-management/hyatt-celebrates-its-first-anniversary-hackerone)
 - [#AndroidHackingMonth: Introduction to Android Hacking by @0xteknogeek](https://www.hackerone.com/ethical-hacker/androidhackingmonth-intro-to-android-hacking)
 - [Guess what&#39;s coming!? #AndroidHackingMonth on @Hacker0x01](https://www.hackerone.com/ethical-hacker/AndroidHackingMonth)
